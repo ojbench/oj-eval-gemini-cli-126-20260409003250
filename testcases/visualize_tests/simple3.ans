@@ -1,0 +1,3003 @@
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6bo7bo$11bo6b2o6bo$11bo6b2o6bo$10bobo6bo5bobo$11bo14bo$11bo14bo!
+0 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5b2o5b3o$10b3o4bo7b3o$10b3o7bo4b3o$10bobo5b2o5bobo$10b3o12b3o!
+1 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4bo5bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo5bo4bo3bo$10bobo12bobo$11bo14bo!
+2 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o2bo5b3ob3o$8b3ob3o5bo2b3ob3o$9b2ob2o4b2o4b2ob2o$10b3o12b3o$11bo14bo!
+3 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2bo3bo7bo$7bo7bo2b2o2bo7bo$18b2o$8bo5bo4bo3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+4 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$18b2o$17bo$20bo$18b2o$9b5o10b5o$10b3o12b3o$11bo14bo!
+5 42
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18bo$18b2o$18b2o$10b3o6bo5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+6 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18b2o$17bo$11bo8bo5bo$10b3o5b2o5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+7 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18bo$18b2o$10b3o5b2o5b3o$19bo$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+8 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6b2o6bo$11bo5bo8bo$11bo8bo5bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+9 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5bo6b3o$10b3o5b2o5b3o$18b2o$10b3o6bo5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+10 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5b2o5bobo$10bobo4bo7bobo$20bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo!
+11 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18bo$18b2o$10bobo5b2o5bobo$11bo7bo6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+12 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18b2o$17bo$11bo8bo5bo$10b3o5b2o5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+13 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18bo$18b2o$10b3o5b2o5b3o$19bo$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+14 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6b2o6bo$11bo5bo8bo$11bo8bo5bo$10bobo5b2o5bobo$11bo14bo$11bo14bo!
+15 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5bo6b3o$10b3o5b2o5b3o$10b3o5b2o5b3o$10bobo6bo5bobo$10b3o12b3o!
+16 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4b2o4bo3bo$9bo3bo3bo6bo3bo$9bo3bo6bo3bo3bo$9bo3bo4b2o4bo3bo$10bobo12bobo$11bo14bo!
+17 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3bo4b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o3b2o3b3ob3o$9b2ob2o5bo4b2ob2o$10b3o12b3o$11bo14bo!
+18 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2b2o2bo7bo$7bo7bobo4bo7bo$20bo$8bo5bo3b2o3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+19 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$16bobo$16bob2obo$18b2o$19bo$9b5o10b5o$10b3o12b3o$11bo14bo!
+20 45
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18b2o$20bo$17bo$10b3o5b2o5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+21 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$19bo$18b2o$11bo6b2o6bo$10b3o5bo6b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+22 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18b2o$20bo$10b3o4bo7b3o$18b2o$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+23 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo7bo6bo$11bo6b2o6bo$11bo6b2o6bo$10b3o5bo6b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+24 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5b2o5b3o$10b3o7bo4b3o$17bo$10b3o5b2o5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+25 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo6bo5bobo$10bobo5b2o5bobo$18b2o$10b3o5bo6b3o3$10b3o12b3o$11bo14bo!
+26 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18b2o$20bo$10bobo4bo7bobo$11bo6b2o6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+27 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$19bo$18b2o$11bo6b2o6bo$10b3o5bo6b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+28 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18b2o$20bo$10b3o4bo7b3o$18b2o$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+29 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo7bo6bo$11bo6b2o6bo$11bo6b2o6bo$10bobo5bo6bobo$11bo14bo$11bo14bo!
+30 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5b2o5b3o$10b3o7bo4b3o$10b3o4bo7b3o$10bobo5b2o5bobo$10b3o12b3o!
+31 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo5bo4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4bo5bo3bo$10bobo12bobo$11bo14bo!
+32 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o5bo2b3ob3o$8b3ob3o2bo5b3ob3o$9b2ob2o4b2o4b2ob2o$10b3o12b3o$11bo14bo!
+33 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo3bo2bo7bo$7bo7bo2b2o2bo7bo$18b2o$8bo5bo3bo4bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+34 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$18b2o$20bo$17bo$18b2o$9b5o10b5o$10b3o12b3o$11bo14bo!
+35 42
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$19bo$18b2o$18b2o$10b3o5bo6b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+36 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18b2o$20bo$11bo5bo8bo$10b3o5b2o5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+37 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$19bo$18b2o$10b3o5b2o5b3o$18bo$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+38 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6b2o6bo$11bo8bo5bo$11bo5bo8bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+39 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o6bo5b3o$10b3o5b2o5b3o$18b2o$10b3o5bo6b3o$11bo14bo$11bo14bo$10b3o12b3o!
+40 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5b2o5bobo$10bobo7bo4bobo$17bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo!
+41 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$19bo$18b2o$10bobo5b2o5bobo$11bo6bo7bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+42 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18b2o$20bo$11bo5bo8bo$10b3o5b2o5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+43 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$19bo$18b2o$10b3o5b2o5b3o$18bo$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+44 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6b2o6bo$11bo8bo5bo$11bo5bo8bo$10bobo5b2o5bobo$11bo14bo$11bo14bo!
+45 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o6bo5b3o$10b3o5b2o5b3o$10b3o5b2o5b3o$10bobo5bo6bobo$10b3o12b3o!
+46 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4b2o4bo3bo$9bo3bo6bo3bo3bo$9bo3bo3bo6bo3bo$9bo3bo4b2o4bo3bo$10bobo12bobo$11bo14bo!
+47 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o4bo3b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o3b2o3b3ob3o$9b2ob2o4bo5b2ob2o$10b3o12b3o$11bo14bo!
+48 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2b2o2bo7bo$7bo7bo4bobo7bo$17bo$8bo5bo3b2o3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+49 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$19bobo$16bob2obo$18b2o$18bo$9b5o10b5o$10b3o12b3o$11bo14bo!
+50 45
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18b2o$17bo$20bo$10b3o5b2o5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+51 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18bo$18b2o$11bo6b2o6bo$10b3o6bo5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+52 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18b2o$17bo$10b3o7bo4b3o$18b2o$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+53 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6bo7bo$11bo6b2o6bo$11bo6b2o6bo$10b3o6bo5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+54 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5b2o5b3o$10b3o4bo7b3o$20bo$10b3o5b2o5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+55 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5bo6bobo$10bobo5b2o5bobo$18b2o$10b3o6bo5b3o3$10b3o12b3o$11bo14bo!
+56 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18b2o$17bo$10bobo7bo4bobo$11bo6b2o6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+57 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18bo$18b2o$11bo6b2o6bo$10b3o6bo5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+58 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18b2o$17bo$10b3o7bo4b3o$18b2o$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+59 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6bo7bo$11bo6b2o6bo$11bo6b2o6bo$10bobo6bo5bobo$11bo14bo$11bo14bo!
+60 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5b2o5b3o$10b3o4bo7b3o$10b3o7bo4b3o$10bobo5b2o5bobo$10b3o12b3o!
+61 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4bo5bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo5bo4bo3bo$10bobo12bobo$11bo14bo!
+62 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o2bo5b3ob3o$8b3ob3o5bo2b3ob3o$9b2ob2o4b2o4b2ob2o$10b3o12b3o$11bo14bo!
+63 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2bo3bo7bo$7bo7bo2b2o2bo7bo$18b2o$8bo5bo4bo3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+64 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$18b2o$17bo$20bo$18b2o$9b5o10b5o$10b3o12b3o$11bo14bo!
+65 42
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18bo$18b2o$18b2o$10b3o6bo5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+66 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18b2o$17bo$11bo8bo5bo$10b3o5b2o5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+67 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18bo$18b2o$10b3o5b2o5b3o$19bo$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+68 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6b2o6bo$11bo5bo8bo$11bo8bo5bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+69 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5bo6b3o$10b3o5b2o5b3o$18b2o$10b3o6bo5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+70 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5b2o5bobo$10bobo4bo7bobo$20bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo!
+71 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18bo$18b2o$10bobo5b2o5bobo$11bo7bo6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+72 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18b2o$17bo$11bo8bo5bo$10b3o5b2o5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+73 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18bo$18b2o$10b3o5b2o5b3o$19bo$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+74 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6b2o6bo$11bo5bo8bo$11bo8bo5bo$10bobo5b2o5bobo$11bo14bo$11bo14bo!
+75 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5bo6b3o$10b3o5b2o5b3o$10b3o5b2o5b3o$10bobo6bo5bobo$10b3o12b3o!
+76 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4b2o4bo3bo$9bo3bo3bo6bo3bo$9bo3bo6bo3bo3bo$9bo3bo4b2o4bo3bo$10bobo12bobo$11bo14bo!
+77 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3bo4b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o3b2o3b3ob3o$9b2ob2o5bo4b2ob2o$10b3o12b3o$11bo14bo!
+78 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2b2o2bo7bo$7bo7bobo4bo7bo$20bo$8bo5bo3b2o3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+79 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$16bobo$16bob2obo$18b2o$19bo$9b5o10b5o$10b3o12b3o$11bo14bo!
+80 45
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18b2o$20bo$17bo$10b3o5b2o5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+81 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$19bo$18b2o$11bo6b2o6bo$10b3o5bo6b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+82 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18b2o$20bo$10b3o4bo7b3o$18b2o$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+83 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo7bo6bo$11bo6b2o6bo$11bo6b2o6bo$10b3o5bo6b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+84 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5b2o5b3o$10b3o7bo4b3o$17bo$10b3o5b2o5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+85 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo6bo5bobo$10bobo5b2o5bobo$18b2o$10b3o5bo6b3o3$10b3o12b3o$11bo14bo!
+86 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18b2o$20bo$10bobo4bo7bobo$11bo6b2o6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+87 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$19bo$18b2o$11bo6b2o6bo$10b3o5bo6b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+88 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18b2o$20bo$10b3o4bo7b3o$18b2o$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+89 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo7bo6bo$11bo6b2o6bo$11bo6b2o6bo$10bobo5bo6bobo$11bo14bo$11bo14bo!
+90 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5b2o5b3o$10b3o7bo4b3o$10b3o4bo7b3o$10bobo5b2o5bobo$10b3o12b3o!
+91 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo5bo4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4bo5bo3bo$10bobo12bobo$11bo14bo!
+92 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o5bo2b3ob3o$8b3ob3o2bo5b3ob3o$9b2ob2o4b2o4b2ob2o$10b3o12b3o$11bo14bo!
+93 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo3bo2bo7bo$7bo7bo2b2o2bo7bo$18b2o$8bo5bo3bo4bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+94 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$18b2o$20bo$17bo$18b2o$9b5o10b5o$10b3o12b3o$11bo14bo!
+95 42
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$19bo$18b2o$18b2o$10b3o5bo6b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+96 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18b2o$20bo$11bo5bo8bo$10b3o5b2o5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+97 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$19bo$18b2o$10b3o5b2o5b3o$18bo$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+98 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6b2o6bo$11bo8bo5bo$11bo5bo8bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+99 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o6bo5b3o$10b3o5b2o5b3o$18b2o$10b3o5bo6b3o$11bo14bo$11bo14bo$10b3o12b3o!
+100 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5b2o5bobo$10bobo7bo4bobo$17bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo!
+101 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$19bo$18b2o$10bobo5b2o5bobo$11bo6bo7bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+102 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18b2o$20bo$11bo5bo8bo$10b3o5b2o5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+103 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$19bo$18b2o$10b3o5b2o5b3o$18bo$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+104 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6b2o6bo$11bo8bo5bo$11bo5bo8bo$10bobo5b2o5bobo$11bo14bo$11bo14bo!
+105 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o6bo5b3o$10b3o5b2o5b3o$10b3o5b2o5b3o$10bobo5bo6bobo$10b3o12b3o!
+106 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4b2o4bo3bo$9bo3bo6bo3bo3bo$9bo3bo3bo6bo3bo$9bo3bo4b2o4bo3bo$10bobo12bobo$11bo14bo!
+107 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o4bo3b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o3b2o3b3ob3o$9b2ob2o4bo5b2ob2o$10b3o12b3o$11bo14bo!
+108 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2b2o2bo7bo$7bo7bo4bobo7bo$17bo$8bo5bo3b2o3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+109 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$19bobo$16bob2obo$18b2o$18bo$9b5o10b5o$10b3o12b3o$11bo14bo!
+110 45
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18b2o$17bo$20bo$10b3o5b2o5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+111 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18bo$18b2o$11bo6b2o6bo$10b3o6bo5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+112 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18b2o$17bo$10b3o7bo4b3o$18b2o$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+113 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6bo7bo$11bo6b2o6bo$11bo6b2o6bo$10b3o6bo5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+114 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5b2o5b3o$10b3o4bo7b3o$20bo$10b3o5b2o5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+115 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5bo6bobo$10bobo5b2o5bobo$18b2o$10b3o6bo5b3o3$10b3o12b3o$11bo14bo!
+116 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18b2o$17bo$10bobo7bo4bobo$11bo6b2o6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+117 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18bo$18b2o$11bo6b2o6bo$10b3o6bo5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+118 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18b2o$17bo$10b3o7bo4b3o$18b2o$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+119 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6bo7bo$11bo6b2o6bo$11bo6b2o6bo$10bobo6bo5bobo$11bo14bo$11bo14bo!
+120 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5b2o5b3o$10b3o4bo7b3o$10b3o7bo4b3o$10bobo5b2o5bobo$10b3o12b3o!
+121 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4bo5bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo5bo4bo3bo$10bobo12bobo$11bo14bo!
+122 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o2bo5b3ob3o$8b3ob3o5bo2b3ob3o$9b2ob2o4b2o4b2ob2o$10b3o12b3o$11bo14bo!
+123 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2bo3bo7bo$7bo7bo2b2o2bo7bo$18b2o$8bo5bo4bo3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+124 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$18b2o$17bo$20bo$18b2o$9b5o10b5o$10b3o12b3o$11bo14bo!
+125 42
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18bo$18b2o$18b2o$10b3o6bo5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+126 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18b2o$17bo$11bo8bo5bo$10b3o5b2o5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+127 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18bo$18b2o$10b3o5b2o5b3o$19bo$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+128 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6b2o6bo$11bo5bo8bo$11bo8bo5bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+129 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5bo6b3o$10b3o5b2o5b3o$18b2o$10b3o6bo5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+130 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5b2o5bobo$10bobo4bo7bobo$20bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo!
+131 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18bo$18b2o$10bobo5b2o5bobo$11bo7bo6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+132 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18b2o$17bo$11bo8bo5bo$10b3o5b2o5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+133 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18bo$18b2o$10b3o5b2o5b3o$19bo$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+134 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6b2o6bo$11bo5bo8bo$11bo8bo5bo$10bobo5b2o5bobo$11bo14bo$11bo14bo!
+135 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5bo6b3o$10b3o5b2o5b3o$10b3o5b2o5b3o$10bobo6bo5bobo$10b3o12b3o!
+136 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4b2o4bo3bo$9bo3bo3bo6bo3bo$9bo3bo6bo3bo3bo$9bo3bo4b2o4bo3bo$10bobo12bobo$11bo14bo!
+137 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3bo4b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o3b2o3b3ob3o$9b2ob2o5bo4b2ob2o$10b3o12b3o$11bo14bo!
+138 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2b2o2bo7bo$7bo7bobo4bo7bo$20bo$8bo5bo3b2o3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+139 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$16bobo$16bob2obo$18b2o$19bo$9b5o10b5o$10b3o12b3o$11bo14bo!
+140 45
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18b2o$20bo$17bo$10b3o5b2o5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+141 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$19bo$18b2o$11bo6b2o6bo$10b3o5bo6b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+142 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18b2o$20bo$10b3o4bo7b3o$18b2o$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+143 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo7bo6bo$11bo6b2o6bo$11bo6b2o6bo$10b3o5bo6b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+144 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5b2o5b3o$10b3o7bo4b3o$17bo$10b3o5b2o5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+145 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo6bo5bobo$10bobo5b2o5bobo$18b2o$10b3o5bo6b3o3$10b3o12b3o$11bo14bo!
+146 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18b2o$20bo$10bobo4bo7bobo$11bo6b2o6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+147 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$19bo$18b2o$11bo6b2o6bo$10b3o5bo6b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+148 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18b2o$20bo$10b3o4bo7b3o$18b2o$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+149 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo7bo6bo$11bo6b2o6bo$11bo6b2o6bo$10bobo5bo6bobo$11bo14bo$11bo14bo!
+150 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5b2o5b3o$10b3o7bo4b3o$10b3o4bo7b3o$10bobo5b2o5bobo$10b3o12b3o!
+151 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo5bo4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4bo5bo3bo$10bobo12bobo$11bo14bo!
+152 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o5bo2b3ob3o$8b3ob3o2bo5b3ob3o$9b2ob2o4b2o4b2ob2o$10b3o12b3o$11bo14bo!
+153 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo3bo2bo7bo$7bo7bo2b2o2bo7bo$18b2o$8bo5bo3bo4bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+154 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$18b2o$20bo$17bo$18b2o$9b5o10b5o$10b3o12b3o$11bo14bo!
+155 42
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$19bo$18b2o$18b2o$10b3o5bo6b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+156 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18b2o$20bo$11bo5bo8bo$10b3o5b2o5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+157 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$19bo$18b2o$10b3o5b2o5b3o$18bo$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+158 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6b2o6bo$11bo8bo5bo$11bo5bo8bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+159 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o6bo5b3o$10b3o5b2o5b3o$18b2o$10b3o5bo6b3o$11bo14bo$11bo14bo$10b3o12b3o!
+160 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5b2o5bobo$10bobo7bo4bobo$17bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo!
+161 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$19bo$18b2o$10bobo5b2o5bobo$11bo6bo7bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+162 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18b2o$20bo$11bo5bo8bo$10b3o5b2o5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+163 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$19bo$18b2o$10b3o5b2o5b3o$18bo$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+164 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6b2o6bo$11bo8bo5bo$11bo5bo8bo$10bobo5b2o5bobo$11bo14bo$11bo14bo!
+165 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o6bo5b3o$10b3o5b2o5b3o$10b3o5b2o5b3o$10bobo5bo6bobo$10b3o12b3o!
+166 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4b2o4bo3bo$9bo3bo6bo3bo3bo$9bo3bo3bo6bo3bo$9bo3bo4b2o4bo3bo$10bobo12bobo$11bo14bo!
+167 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o4bo3b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o3b2o3b3ob3o$9b2ob2o4bo5b2ob2o$10b3o12b3o$11bo14bo!
+168 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2b2o2bo7bo$7bo7bo4bobo7bo$17bo$8bo5bo3b2o3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+169 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$19bobo$16bob2obo$18b2o$18bo$9b5o10b5o$10b3o12b3o$11bo14bo!
+170 45
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18b2o$17bo$20bo$10b3o5b2o5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+171 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18bo$18b2o$11bo6b2o6bo$10b3o6bo5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+172 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18b2o$17bo$10b3o7bo4b3o$18b2o$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+173 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6bo7bo$11bo6b2o6bo$11bo6b2o6bo$10b3o6bo5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+174 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5b2o5b3o$10b3o4bo7b3o$20bo$10b3o5b2o5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+175 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5bo6bobo$10bobo5b2o5bobo$18b2o$10b3o6bo5b3o3$10b3o12b3o$11bo14bo!
+176 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18b2o$17bo$10bobo7bo4bobo$11bo6b2o6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+177 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18bo$18b2o$11bo6b2o6bo$10b3o6bo5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+178 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18b2o$17bo$10b3o7bo4b3o$18b2o$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+179 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6bo7bo$11bo6b2o6bo$11bo6b2o6bo$10bobo6bo5bobo$11bo14bo$11bo14bo!
+180 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5b2o5b3o$10b3o4bo7b3o$10b3o7bo4b3o$10bobo5b2o5bobo$10b3o12b3o!
+181 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4bo5bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo5bo4bo3bo$10bobo12bobo$11bo14bo!
+182 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o2bo5b3ob3o$8b3ob3o5bo2b3ob3o$9b2ob2o4b2o4b2ob2o$10b3o12b3o$11bo14bo!
+183 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2bo3bo7bo$7bo7bo2b2o2bo7bo$18b2o$8bo5bo4bo3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+184 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$18b2o$17bo$20bo$18b2o$9b5o10b5o$10b3o12b3o$11bo14bo!
+185 42
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18bo$18b2o$18b2o$10b3o6bo5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+186 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18b2o$17bo$11bo8bo5bo$10b3o5b2o5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+187 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18bo$18b2o$10b3o5b2o5b3o$19bo$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+188 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6b2o6bo$11bo5bo8bo$11bo8bo5bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+189 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5bo6b3o$10b3o5b2o5b3o$18b2o$10b3o6bo5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+190 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5b2o5bobo$10bobo4bo7bobo$20bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo!
+191 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18bo$18b2o$10bobo5b2o5bobo$11bo7bo6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+192 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18b2o$17bo$11bo8bo5bo$10b3o5b2o5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+193 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18bo$18b2o$10b3o5b2o5b3o$19bo$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+194 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6b2o6bo$11bo5bo8bo$11bo8bo5bo$10bobo5b2o5bobo$11bo14bo$11bo14bo!
+195 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5bo6b3o$10b3o5b2o5b3o$10b3o5b2o5b3o$10bobo6bo5bobo$10b3o12b3o!
+196 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4b2o4bo3bo$9bo3bo3bo6bo3bo$9bo3bo6bo3bo3bo$9bo3bo4b2o4bo3bo$10bobo12bobo$11bo14bo!
+197 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3bo4b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o3b2o3b3ob3o$9b2ob2o5bo4b2ob2o$10b3o12b3o$11bo14bo!
+198 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2b2o2bo7bo$7bo7bobo4bo7bo$20bo$8bo5bo3b2o3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+199 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$16bobo$16bob2obo$18b2o$19bo$9b5o10b5o$10b3o12b3o$11bo14bo!
+200 45
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18b2o$20bo$17bo$10b3o5b2o5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+201 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$19bo$18b2o$11bo6b2o6bo$10b3o5bo6b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+202 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18b2o$20bo$10b3o4bo7b3o$18b2o$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+203 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo7bo6bo$11bo6b2o6bo$11bo6b2o6bo$10b3o5bo6b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+204 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5b2o5b3o$10b3o7bo4b3o$17bo$10b3o5b2o5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+205 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo6bo5bobo$10bobo5b2o5bobo$18b2o$10b3o5bo6b3o3$10b3o12b3o$11bo14bo!
+206 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18b2o$20bo$10bobo4bo7bobo$11bo6b2o6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+207 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$19bo$18b2o$11bo6b2o6bo$10b3o5bo6b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+208 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18b2o$20bo$10b3o4bo7b3o$18b2o$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+209 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo7bo6bo$11bo6b2o6bo$11bo6b2o6bo$10bobo5bo6bobo$11bo14bo$11bo14bo!
+210 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5b2o5b3o$10b3o7bo4b3o$10b3o4bo7b3o$10bobo5b2o5bobo$10b3o12b3o!
+211 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo5bo4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4bo5bo3bo$10bobo12bobo$11bo14bo!
+212 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o5bo2b3ob3o$8b3ob3o2bo5b3ob3o$9b2ob2o4b2o4b2ob2o$10b3o12b3o$11bo14bo!
+213 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo3bo2bo7bo$7bo7bo2b2o2bo7bo$18b2o$8bo5bo3bo4bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+214 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$18b2o$20bo$17bo$18b2o$9b5o10b5o$10b3o12b3o$11bo14bo!
+215 42
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$19bo$18b2o$18b2o$10b3o5bo6b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+216 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18b2o$20bo$11bo5bo8bo$10b3o5b2o5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+217 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$19bo$18b2o$10b3o5b2o5b3o$18bo$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+218 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6b2o6bo$11bo8bo5bo$11bo5bo8bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+219 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o6bo5b3o$10b3o5b2o5b3o$18b2o$10b3o5bo6b3o$11bo14bo$11bo14bo$10b3o12b3o!
+220 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5b2o5bobo$10bobo7bo4bobo$17bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo!
+221 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$19bo$18b2o$10bobo5b2o5bobo$11bo6bo7bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+222 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18b2o$20bo$11bo5bo8bo$10b3o5b2o5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+223 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$19bo$18b2o$10b3o5b2o5b3o$18bo$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+224 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6b2o6bo$11bo8bo5bo$11bo5bo8bo$10bobo5b2o5bobo$11bo14bo$11bo14bo!
+225 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o6bo5b3o$10b3o5b2o5b3o$10b3o5b2o5b3o$10bobo5bo6bobo$10b3o12b3o!
+226 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4b2o4bo3bo$9bo3bo6bo3bo3bo$9bo3bo3bo6bo3bo$9bo3bo4b2o4bo3bo$10bobo12bobo$11bo14bo!
+227 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o4bo3b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o3b2o3b3ob3o$9b2ob2o4bo5b2ob2o$10b3o12b3o$11bo14bo!
+228 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2b2o2bo7bo$7bo7bo4bobo7bo$17bo$8bo5bo3b2o3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+229 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$19bobo$16bob2obo$18b2o$18bo$9b5o10b5o$10b3o12b3o$11bo14bo!
+230 45
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18b2o$17bo$20bo$10b3o5b2o5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+231 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18bo$18b2o$11bo6b2o6bo$10b3o6bo5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+232 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18b2o$17bo$10b3o7bo4b3o$18b2o$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+233 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6bo7bo$11bo6b2o6bo$11bo6b2o6bo$10b3o6bo5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+234 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5b2o5b3o$10b3o4bo7b3o$20bo$10b3o5b2o5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+235 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5bo6bobo$10bobo5b2o5bobo$18b2o$10b3o6bo5b3o3$10b3o12b3o$11bo14bo!
+236 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18b2o$17bo$10bobo7bo4bobo$11bo6b2o6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+237 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18bo$18b2o$11bo6b2o6bo$10b3o6bo5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+238 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18b2o$17bo$10b3o7bo4b3o$18b2o$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+239 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6bo7bo$11bo6b2o6bo$11bo6b2o6bo$10bobo6bo5bobo$11bo14bo$11bo14bo!
+240 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5b2o5b3o$10b3o4bo7b3o$10b3o7bo4b3o$10bobo5b2o5bobo$10b3o12b3o!
+241 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4bo5bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo5bo4bo3bo$10bobo12bobo$11bo14bo!
+242 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o2bo5b3ob3o$8b3ob3o5bo2b3ob3o$9b2ob2o4b2o4b2ob2o$10b3o12b3o$11bo14bo!
+243 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2bo3bo7bo$7bo7bo2b2o2bo7bo$18b2o$8bo5bo4bo3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+244 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$18b2o$17bo$20bo$18b2o$9b5o10b5o$10b3o12b3o$11bo14bo!
+245 42
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18bo$18b2o$18b2o$10b3o6bo5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+246 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18b2o$17bo$11bo8bo5bo$10b3o5b2o5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+247 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18bo$18b2o$10b3o5b2o5b3o$19bo$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+248 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6b2o6bo$11bo5bo8bo$11bo8bo5bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+249 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5bo6b3o$10b3o5b2o5b3o$18b2o$10b3o6bo5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+250 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5b2o5bobo$10bobo4bo7bobo$20bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo!
+251 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18bo$18b2o$10bobo5b2o5bobo$11bo7bo6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+252 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18b2o$17bo$11bo8bo5bo$10b3o5b2o5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+253 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18bo$18b2o$10b3o5b2o5b3o$19bo$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+254 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6b2o6bo$11bo5bo8bo$11bo8bo5bo$10bobo5b2o5bobo$11bo14bo$11bo14bo!
+255 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5bo6b3o$10b3o5b2o5b3o$10b3o5b2o5b3o$10bobo6bo5bobo$10b3o12b3o!
+256 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4b2o4bo3bo$9bo3bo3bo6bo3bo$9bo3bo6bo3bo3bo$9bo3bo4b2o4bo3bo$10bobo12bobo$11bo14bo!
+257 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3bo4b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o3b2o3b3ob3o$9b2ob2o5bo4b2ob2o$10b3o12b3o$11bo14bo!
+258 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2b2o2bo7bo$7bo7bobo4bo7bo$20bo$8bo5bo3b2o3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+259 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$16bobo$16bob2obo$18b2o$19bo$9b5o10b5o$10b3o12b3o$11bo14bo!
+260 45
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18b2o$20bo$17bo$10b3o5b2o5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+261 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$19bo$18b2o$11bo6b2o6bo$10b3o5bo6b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+262 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18b2o$20bo$10b3o4bo7b3o$18b2o$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+263 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo7bo6bo$11bo6b2o6bo$11bo6b2o6bo$10b3o5bo6b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+264 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5b2o5b3o$10b3o7bo4b3o$17bo$10b3o5b2o5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+265 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo6bo5bobo$10bobo5b2o5bobo$18b2o$10b3o5bo6b3o3$10b3o12b3o$11bo14bo!
+266 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18b2o$20bo$10bobo4bo7bobo$11bo6b2o6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+267 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$19bo$18b2o$11bo6b2o6bo$10b3o5bo6b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+268 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18b2o$20bo$10b3o4bo7b3o$18b2o$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+269 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo7bo6bo$11bo6b2o6bo$11bo6b2o6bo$10bobo5bo6bobo$11bo14bo$11bo14bo!
+270 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5b2o5b3o$10b3o7bo4b3o$10b3o4bo7b3o$10bobo5b2o5bobo$10b3o12b3o!
+271 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo5bo4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4bo5bo3bo$10bobo12bobo$11bo14bo!
+272 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o5bo2b3ob3o$8b3ob3o2bo5b3ob3o$9b2ob2o4b2o4b2ob2o$10b3o12b3o$11bo14bo!
+273 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo3bo2bo7bo$7bo7bo2b2o2bo7bo$18b2o$8bo5bo3bo4bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+274 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$18b2o$20bo$17bo$18b2o$9b5o10b5o$10b3o12b3o$11bo14bo!
+275 42
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$19bo$18b2o$18b2o$10b3o5bo6b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+276 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18b2o$20bo$11bo5bo8bo$10b3o5b2o5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+277 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$19bo$18b2o$10b3o5b2o5b3o$18bo$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+278 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6b2o6bo$11bo8bo5bo$11bo5bo8bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+279 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o6bo5b3o$10b3o5b2o5b3o$18b2o$10b3o5bo6b3o$11bo14bo$11bo14bo$10b3o12b3o!
+280 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5b2o5bobo$10bobo7bo4bobo$17bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo!
+281 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$19bo$18b2o$10bobo5b2o5bobo$11bo6bo7bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+282 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18b2o$20bo$11bo5bo8bo$10b3o5b2o5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+283 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$19bo$18b2o$10b3o5b2o5b3o$18bo$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+284 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6b2o6bo$11bo8bo5bo$11bo5bo8bo$10bobo5b2o5bobo$11bo14bo$11bo14bo!
+285 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o6bo5b3o$10b3o5b2o5b3o$10b3o5b2o5b3o$10bobo5bo6bobo$10b3o12b3o!
+286 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4b2o4bo3bo$9bo3bo6bo3bo3bo$9bo3bo3bo6bo3bo$9bo3bo4b2o4bo3bo$10bobo12bobo$11bo14bo!
+287 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o4bo3b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o3b2o3b3ob3o$9b2ob2o4bo5b2ob2o$10b3o12b3o$11bo14bo!
+288 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2b2o2bo7bo$7bo7bo4bobo7bo$17bo$8bo5bo3b2o3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+289 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$19bobo$16bob2obo$18b2o$18bo$9b5o10b5o$10b3o12b3o$11bo14bo!
+290 45
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18b2o$17bo$20bo$10b3o5b2o5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+291 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18bo$18b2o$11bo6b2o6bo$10b3o6bo5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+292 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18b2o$17bo$10b3o7bo4b3o$18b2o$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+293 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6bo7bo$11bo6b2o6bo$11bo6b2o6bo$10b3o6bo5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+294 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5b2o5b3o$10b3o4bo7b3o$20bo$10b3o5b2o5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+295 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5bo6bobo$10bobo5b2o5bobo$18b2o$10b3o6bo5b3o3$10b3o12b3o$11bo14bo!
+296 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18b2o$17bo$10bobo7bo4bobo$11bo6b2o6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+297 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18bo$18b2o$11bo6b2o6bo$10b3o6bo5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+298 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18b2o$17bo$10b3o7bo4b3o$18b2o$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+299 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6bo7bo$11bo6b2o6bo$11bo6b2o6bo$10bobo6bo5bobo$11bo14bo$11bo14bo!
+300 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5b2o5b3o$10b3o4bo7b3o$10b3o7bo4b3o$10bobo5b2o5bobo$10b3o12b3o!
+301 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4bo5bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo5bo4bo3bo$10bobo12bobo$11bo14bo!
+302 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o2bo5b3ob3o$8b3ob3o5bo2b3ob3o$9b2ob2o4b2o4b2ob2o$10b3o12b3o$11bo14bo!
+303 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2bo3bo7bo$7bo7bo2b2o2bo7bo$18b2o$8bo5bo4bo3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+304 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$18b2o$17bo$20bo$18b2o$9b5o10b5o$10b3o12b3o$11bo14bo!
+305 42
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18bo$18b2o$18b2o$10b3o6bo5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+306 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18b2o$17bo$11bo8bo5bo$10b3o5b2o5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+307 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18bo$18b2o$10b3o5b2o5b3o$19bo$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+308 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6b2o6bo$11bo5bo8bo$11bo8bo5bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+309 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5bo6b3o$10b3o5b2o5b3o$18b2o$10b3o6bo5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+310 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5b2o5bobo$10bobo4bo7bobo$20bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo!
+311 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18bo$18b2o$10bobo5b2o5bobo$11bo7bo6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+312 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18b2o$17bo$11bo8bo5bo$10b3o5b2o5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+313 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18bo$18b2o$10b3o5b2o5b3o$19bo$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+314 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6b2o6bo$11bo5bo8bo$11bo8bo5bo$10bobo5b2o5bobo$11bo14bo$11bo14bo!
+315 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5bo6b3o$10b3o5b2o5b3o$10b3o5b2o5b3o$10bobo6bo5bobo$10b3o12b3o!
+316 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4b2o4bo3bo$9bo3bo3bo6bo3bo$9bo3bo6bo3bo3bo$9bo3bo4b2o4bo3bo$10bobo12bobo$11bo14bo!
+317 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3bo4b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o3b2o3b3ob3o$9b2ob2o5bo4b2ob2o$10b3o12b3o$11bo14bo!
+318 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2b2o2bo7bo$7bo7bobo4bo7bo$20bo$8bo5bo3b2o3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+319 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$16bobo$16bob2obo$18b2o$19bo$9b5o10b5o$10b3o12b3o$11bo14bo!
+320 45
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18b2o$20bo$17bo$10b3o5b2o5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+321 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$19bo$18b2o$11bo6b2o6bo$10b3o5bo6b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+322 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18b2o$20bo$10b3o4bo7b3o$18b2o$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+323 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo7bo6bo$11bo6b2o6bo$11bo6b2o6bo$10b3o5bo6b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+324 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5b2o5b3o$10b3o7bo4b3o$17bo$10b3o5b2o5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+325 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo6bo5bobo$10bobo5b2o5bobo$18b2o$10b3o5bo6b3o3$10b3o12b3o$11bo14bo!
+326 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18b2o$20bo$10bobo4bo7bobo$11bo6b2o6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+327 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$19bo$18b2o$11bo6b2o6bo$10b3o5bo6b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+328 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18b2o$20bo$10b3o4bo7b3o$18b2o$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+329 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo7bo6bo$11bo6b2o6bo$11bo6b2o6bo$10bobo5bo6bobo$11bo14bo$11bo14bo!
+330 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5b2o5b3o$10b3o7bo4b3o$10b3o4bo7b3o$10bobo5b2o5bobo$10b3o12b3o!
+331 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo5bo4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4bo5bo3bo$10bobo12bobo$11bo14bo!
+332 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o5bo2b3ob3o$8b3ob3o2bo5b3ob3o$9b2ob2o4b2o4b2ob2o$10b3o12b3o$11bo14bo!
+333 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo3bo2bo7bo$7bo7bo2b2o2bo7bo$18b2o$8bo5bo3bo4bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+334 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$18b2o$20bo$17bo$18b2o$9b5o10b5o$10b3o12b3o$11bo14bo!
+335 42
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$19bo$18b2o$18b2o$10b3o5bo6b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+336 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18b2o$20bo$11bo5bo8bo$10b3o5b2o5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+337 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$19bo$18b2o$10b3o5b2o5b3o$18bo$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+338 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6b2o6bo$11bo8bo5bo$11bo5bo8bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+339 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o6bo5b3o$10b3o5b2o5b3o$18b2o$10b3o5bo6b3o$11bo14bo$11bo14bo$10b3o12b3o!
+340 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5b2o5bobo$10bobo7bo4bobo$17bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo!
+341 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$19bo$18b2o$10bobo5b2o5bobo$11bo6bo7bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+342 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18b2o$20bo$11bo5bo8bo$10b3o5b2o5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+343 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$19bo$18b2o$10b3o5b2o5b3o$18bo$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+344 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6b2o6bo$11bo8bo5bo$11bo5bo8bo$10bobo5b2o5bobo$11bo14bo$11bo14bo!
+345 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o6bo5b3o$10b3o5b2o5b3o$10b3o5b2o5b3o$10bobo5bo6bobo$10b3o12b3o!
+346 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4b2o4bo3bo$9bo3bo6bo3bo3bo$9bo3bo3bo6bo3bo$9bo3bo4b2o4bo3bo$10bobo12bobo$11bo14bo!
+347 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o4bo3b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o3b2o3b3ob3o$9b2ob2o4bo5b2ob2o$10b3o12b3o$11bo14bo!
+348 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2b2o2bo7bo$7bo7bo4bobo7bo$17bo$8bo5bo3b2o3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+349 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$19bobo$16bob2obo$18b2o$18bo$9b5o10b5o$10b3o12b3o$11bo14bo!
+350 45
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18b2o$17bo$20bo$10b3o5b2o5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+351 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18bo$18b2o$11bo6b2o6bo$10b3o6bo5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+352 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18b2o$17bo$10b3o7bo4b3o$18b2o$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+353 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6bo7bo$11bo6b2o6bo$11bo6b2o6bo$10b3o6bo5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+354 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5b2o5b3o$10b3o4bo7b3o$20bo$10b3o5b2o5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+355 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5bo6bobo$10bobo5b2o5bobo$18b2o$10b3o6bo5b3o3$10b3o12b3o$11bo14bo!
+356 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18b2o$17bo$10bobo7bo4bobo$11bo6b2o6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+357 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18bo$18b2o$11bo6b2o6bo$10b3o6bo5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+358 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18b2o$17bo$10b3o7bo4b3o$18b2o$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+359 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6bo7bo$11bo6b2o6bo$11bo6b2o6bo$10bobo6bo5bobo$11bo14bo$11bo14bo!
+360 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5b2o5b3o$10b3o4bo7b3o$10b3o7bo4b3o$10bobo5b2o5bobo$10b3o12b3o!
+361 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4bo5bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo5bo4bo3bo$10bobo12bobo$11bo14bo!
+362 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o2bo5b3ob3o$8b3ob3o5bo2b3ob3o$9b2ob2o4b2o4b2ob2o$10b3o12b3o$11bo14bo!
+363 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2bo3bo7bo$7bo7bo2b2o2bo7bo$18b2o$8bo5bo4bo3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+364 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$18b2o$17bo$20bo$18b2o$9b5o10b5o$10b3o12b3o$11bo14bo!
+365 42
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18bo$18b2o$18b2o$10b3o6bo5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+366 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18b2o$17bo$11bo8bo5bo$10b3o5b2o5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+367 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18bo$18b2o$10b3o5b2o5b3o$19bo$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+368 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6b2o6bo$11bo5bo8bo$11bo8bo5bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+369 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5bo6b3o$10b3o5b2o5b3o$18b2o$10b3o6bo5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+370 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5b2o5bobo$10bobo4bo7bobo$20bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo!
+371 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18bo$18b2o$10bobo5b2o5bobo$11bo7bo6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+372 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18b2o$17bo$11bo8bo5bo$10b3o5b2o5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+373 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18bo$18b2o$10b3o5b2o5b3o$19bo$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+374 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6b2o6bo$11bo5bo8bo$11bo8bo5bo$10bobo5b2o5bobo$11bo14bo$11bo14bo!
+375 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5bo6b3o$10b3o5b2o5b3o$10b3o5b2o5b3o$10bobo6bo5bobo$10b3o12b3o!
+376 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4b2o4bo3bo$9bo3bo3bo6bo3bo$9bo3bo6bo3bo3bo$9bo3bo4b2o4bo3bo$10bobo12bobo$11bo14bo!
+377 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3bo4b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o3b2o3b3ob3o$9b2ob2o5bo4b2ob2o$10b3o12b3o$11bo14bo!
+378 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2b2o2bo7bo$7bo7bobo4bo7bo$20bo$8bo5bo3b2o3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+379 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$16bobo$16bob2obo$18b2o$19bo$9b5o10b5o$10b3o12b3o$11bo14bo!
+380 45
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18b2o$20bo$17bo$10b3o5b2o5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+381 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$19bo$18b2o$11bo6b2o6bo$10b3o5bo6b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+382 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18b2o$20bo$10b3o4bo7b3o$18b2o$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+383 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo7bo6bo$11bo6b2o6bo$11bo6b2o6bo$10b3o5bo6b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+384 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5b2o5b3o$10b3o7bo4b3o$17bo$10b3o5b2o5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+385 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo6bo5bobo$10bobo5b2o5bobo$18b2o$10b3o5bo6b3o3$10b3o12b3o$11bo14bo!
+386 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18b2o$20bo$10bobo4bo7bobo$11bo6b2o6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+387 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$19bo$18b2o$11bo6b2o6bo$10b3o5bo6b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+388 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18b2o$20bo$10b3o4bo7b3o$18b2o$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+389 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo7bo6bo$11bo6b2o6bo$11bo6b2o6bo$10bobo5bo6bobo$11bo14bo$11bo14bo!
+390 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5b2o5b3o$10b3o7bo4b3o$10b3o4bo7b3o$10bobo5b2o5bobo$10b3o12b3o!
+391 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo5bo4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4bo5bo3bo$10bobo12bobo$11bo14bo!
+392 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o5bo2b3ob3o$8b3ob3o2bo5b3ob3o$9b2ob2o4b2o4b2ob2o$10b3o12b3o$11bo14bo!
+393 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo3bo2bo7bo$7bo7bo2b2o2bo7bo$18b2o$8bo5bo3bo4bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+394 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$18b2o$20bo$17bo$18b2o$9b5o10b5o$10b3o12b3o$11bo14bo!
+395 42
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$19bo$18b2o$18b2o$10b3o5bo6b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+396 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18b2o$20bo$11bo5bo8bo$10b3o5b2o5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+397 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$19bo$18b2o$10b3o5b2o5b3o$18bo$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+398 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6b2o6bo$11bo8bo5bo$11bo5bo8bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+399 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o6bo5b3o$10b3o5b2o5b3o$18b2o$10b3o5bo6b3o$11bo14bo$11bo14bo$10b3o12b3o!
+400 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5b2o5bobo$10bobo7bo4bobo$17bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo!
+401 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$19bo$18b2o$10bobo5b2o5bobo$11bo6bo7bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+402 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18b2o$20bo$11bo5bo8bo$10b3o5b2o5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+403 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$19bo$18b2o$10b3o5b2o5b3o$18bo$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+404 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6b2o6bo$11bo8bo5bo$11bo5bo8bo$10bobo5b2o5bobo$11bo14bo$11bo14bo!
+405 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o6bo5b3o$10b3o5b2o5b3o$10b3o5b2o5b3o$10bobo5bo6bobo$10b3o12b3o!
+406 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4b2o4bo3bo$9bo3bo6bo3bo3bo$9bo3bo3bo6bo3bo$9bo3bo4b2o4bo3bo$10bobo12bobo$11bo14bo!
+407 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o4bo3b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o3b2o3b3ob3o$9b2ob2o4bo5b2ob2o$10b3o12b3o$11bo14bo!
+408 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2b2o2bo7bo$7bo7bo4bobo7bo$17bo$8bo5bo3b2o3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+409 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$19bobo$16bob2obo$18b2o$18bo$9b5o10b5o$10b3o12b3o$11bo14bo!
+410 45
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18b2o$17bo$20bo$10b3o5b2o5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+411 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18bo$18b2o$11bo6b2o6bo$10b3o6bo5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+412 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18b2o$17bo$10b3o7bo4b3o$18b2o$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+413 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6bo7bo$11bo6b2o6bo$11bo6b2o6bo$10b3o6bo5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+414 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5b2o5b3o$10b3o4bo7b3o$20bo$10b3o5b2o5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+415 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5bo6bobo$10bobo5b2o5bobo$18b2o$10b3o6bo5b3o3$10b3o12b3o$11bo14bo!
+416 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18b2o$17bo$10bobo7bo4bobo$11bo6b2o6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+417 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18bo$18b2o$11bo6b2o6bo$10b3o6bo5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+418 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18b2o$17bo$10b3o7bo4b3o$18b2o$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+419 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6bo7bo$11bo6b2o6bo$11bo6b2o6bo$10bobo6bo5bobo$11bo14bo$11bo14bo!
+420 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5b2o5b3o$10b3o4bo7b3o$10b3o7bo4b3o$10bobo5b2o5bobo$10b3o12b3o!
+421 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4bo5bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo5bo4bo3bo$10bobo12bobo$11bo14bo!
+422 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o2bo5b3ob3o$8b3ob3o5bo2b3ob3o$9b2ob2o4b2o4b2ob2o$10b3o12b3o$11bo14bo!
+423 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2bo3bo7bo$7bo7bo2b2o2bo7bo$18b2o$8bo5bo4bo3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+424 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$18b2o$17bo$20bo$18b2o$9b5o10b5o$10b3o12b3o$11bo14bo!
+425 42
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18bo$18b2o$18b2o$10b3o6bo5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+426 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18b2o$17bo$11bo8bo5bo$10b3o5b2o5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+427 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18bo$18b2o$10b3o5b2o5b3o$19bo$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+428 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6b2o6bo$11bo5bo8bo$11bo8bo5bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+429 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5bo6b3o$10b3o5b2o5b3o$18b2o$10b3o6bo5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+430 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5b2o5bobo$10bobo4bo7bobo$20bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo!
+431 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18bo$18b2o$10bobo5b2o5bobo$11bo7bo6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+432 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18b2o$17bo$11bo8bo5bo$10b3o5b2o5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+433 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18bo$18b2o$10b3o5b2o5b3o$19bo$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+434 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6b2o6bo$11bo5bo8bo$11bo8bo5bo$10bobo5b2o5bobo$11bo14bo$11bo14bo!
+435 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5bo6b3o$10b3o5b2o5b3o$10b3o5b2o5b3o$10bobo6bo5bobo$10b3o12b3o!
+436 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4b2o4bo3bo$9bo3bo3bo6bo3bo$9bo3bo6bo3bo3bo$9bo3bo4b2o4bo3bo$10bobo12bobo$11bo14bo!
+437 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3bo4b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o3b2o3b3ob3o$9b2ob2o5bo4b2ob2o$10b3o12b3o$11bo14bo!
+438 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2b2o2bo7bo$7bo7bobo4bo7bo$20bo$8bo5bo3b2o3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+439 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$16bobo$16bob2obo$18b2o$19bo$9b5o10b5o$10b3o12b3o$11bo14bo!
+440 45
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18b2o$20bo$17bo$10b3o5b2o5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+441 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$19bo$18b2o$11bo6b2o6bo$10b3o5bo6b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+442 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18b2o$20bo$10b3o4bo7b3o$18b2o$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+443 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo7bo6bo$11bo6b2o6bo$11bo6b2o6bo$10b3o5bo6b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+444 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5b2o5b3o$10b3o7bo4b3o$17bo$10b3o5b2o5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+445 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo6bo5bobo$10bobo5b2o5bobo$18b2o$10b3o5bo6b3o3$10b3o12b3o$11bo14bo!
+446 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18b2o$20bo$10bobo4bo7bobo$11bo6b2o6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+447 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$19bo$18b2o$11bo6b2o6bo$10b3o5bo6b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+448 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18b2o$20bo$10b3o4bo7b3o$18b2o$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+449 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo7bo6bo$11bo6b2o6bo$11bo6b2o6bo$10bobo5bo6bobo$11bo14bo$11bo14bo!
+450 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5b2o5b3o$10b3o7bo4b3o$10b3o4bo7b3o$10bobo5b2o5bobo$10b3o12b3o!
+451 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo5bo4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4bo5bo3bo$10bobo12bobo$11bo14bo!
+452 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o5bo2b3ob3o$8b3ob3o2bo5b3ob3o$9b2ob2o4b2o4b2ob2o$10b3o12b3o$11bo14bo!
+453 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo3bo2bo7bo$7bo7bo2b2o2bo7bo$18b2o$8bo5bo3bo4bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+454 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$18b2o$20bo$17bo$18b2o$9b5o10b5o$10b3o12b3o$11bo14bo!
+455 42
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$19bo$18b2o$18b2o$10b3o5bo6b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+456 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18b2o$20bo$11bo5bo8bo$10b3o5b2o5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+457 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$19bo$18b2o$10b3o5b2o5b3o$18bo$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+458 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6b2o6bo$11bo8bo5bo$11bo5bo8bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+459 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o6bo5b3o$10b3o5b2o5b3o$18b2o$10b3o5bo6b3o$11bo14bo$11bo14bo$10b3o12b3o!
+460 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5b2o5bobo$10bobo7bo4bobo$17bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo!
+461 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$19bo$18b2o$10bobo5b2o5bobo$11bo6bo7bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+462 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18b2o$20bo$11bo5bo8bo$10b3o5b2o5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+463 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$19bo$18b2o$10b3o5b2o5b3o$18bo$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+464 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6b2o6bo$11bo8bo5bo$11bo5bo8bo$10bobo5b2o5bobo$11bo14bo$11bo14bo!
+465 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o6bo5b3o$10b3o5b2o5b3o$10b3o5b2o5b3o$10bobo5bo6bobo$10b3o12b3o!
+466 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4b2o4bo3bo$9bo3bo6bo3bo3bo$9bo3bo3bo6bo3bo$9bo3bo4b2o4bo3bo$10bobo12bobo$11bo14bo!
+467 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o4bo3b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o3b2o3b3ob3o$9b2ob2o4bo5b2ob2o$10b3o12b3o$11bo14bo!
+468 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2b2o2bo7bo$7bo7bo4bobo7bo$17bo$8bo5bo3b2o3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+469 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$19bobo$16bob2obo$18b2o$18bo$9b5o10b5o$10b3o12b3o$11bo14bo!
+470 45
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18b2o$17bo$20bo$10b3o5b2o5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+471 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18bo$18b2o$11bo6b2o6bo$10b3o6bo5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+472 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18b2o$17bo$10b3o7bo4b3o$18b2o$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+473 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6bo7bo$11bo6b2o6bo$11bo6b2o6bo$10b3o6bo5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+474 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5b2o5b3o$10b3o4bo7b3o$20bo$10b3o5b2o5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+475 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5bo6bobo$10bobo5b2o5bobo$18b2o$10b3o6bo5b3o3$10b3o12b3o$11bo14bo!
+476 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18b2o$17bo$10bobo7bo4bobo$11bo6b2o6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+477 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18bo$18b2o$11bo6b2o6bo$10b3o6bo5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+478 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18b2o$17bo$10b3o7bo4b3o$18b2o$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+479 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6bo7bo$11bo6b2o6bo$11bo6b2o6bo$10bobo6bo5bobo$11bo14bo$11bo14bo!
+480 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5b2o5b3o$10b3o4bo7b3o$10b3o7bo4b3o$10bobo5b2o5bobo$10b3o12b3o!
+481 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4bo5bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo5bo4bo3bo$10bobo12bobo$11bo14bo!
+482 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o2bo5b3ob3o$8b3ob3o5bo2b3ob3o$9b2ob2o4b2o4b2ob2o$10b3o12b3o$11bo14bo!
+483 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2bo3bo7bo$7bo7bo2b2o2bo7bo$18b2o$8bo5bo4bo3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+484 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$18b2o$17bo$20bo$18b2o$9b5o10b5o$10b3o12b3o$11bo14bo!
+485 42
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18bo$18b2o$18b2o$10b3o6bo5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+486 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18b2o$17bo$11bo8bo5bo$10b3o5b2o5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+487 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18bo$18b2o$10b3o5b2o5b3o$19bo$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+488 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6b2o6bo$11bo5bo8bo$11bo8bo5bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+489 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5bo6b3o$10b3o5b2o5b3o$18b2o$10b3o6bo5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+490 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5b2o5bobo$10bobo4bo7bobo$20bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo!
+491 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18bo$18b2o$10bobo5b2o5bobo$11bo7bo6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+492 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18b2o$17bo$11bo8bo5bo$10b3o5b2o5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+493 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18bo$18b2o$10b3o5b2o5b3o$19bo$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+494 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6b2o6bo$11bo5bo8bo$11bo8bo5bo$10bobo5b2o5bobo$11bo14bo$11bo14bo!
+495 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5bo6b3o$10b3o5b2o5b3o$10b3o5b2o5b3o$10bobo6bo5bobo$10b3o12b3o!
+496 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4b2o4bo3bo$9bo3bo3bo6bo3bo$9bo3bo6bo3bo3bo$9bo3bo4b2o4bo3bo$10bobo12bobo$11bo14bo!
+497 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3bo4b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o3b2o3b3ob3o$9b2ob2o5bo4b2ob2o$10b3o12b3o$11bo14bo!
+498 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2b2o2bo7bo$7bo7bobo4bo7bo$20bo$8bo5bo3b2o3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+499 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$16bobo$16bob2obo$18b2o$19bo$9b5o10b5o$10b3o12b3o$11bo14bo!
+500 45
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18b2o$20bo$17bo$10b3o5b2o5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+501 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$19bo$18b2o$11bo6b2o6bo$10b3o5bo6b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+502 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18b2o$20bo$10b3o4bo7b3o$18b2o$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+503 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo7bo6bo$11bo6b2o6bo$11bo6b2o6bo$10b3o5bo6b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+504 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5b2o5b3o$10b3o7bo4b3o$17bo$10b3o5b2o5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+505 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo6bo5bobo$10bobo5b2o5bobo$18b2o$10b3o5bo6b3o3$10b3o12b3o$11bo14bo!
+506 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18b2o$20bo$10bobo4bo7bobo$11bo6b2o6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+507 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$19bo$18b2o$11bo6b2o6bo$10b3o5bo6b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+508 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18b2o$20bo$10b3o4bo7b3o$18b2o$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+509 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo7bo6bo$11bo6b2o6bo$11bo6b2o6bo$10bobo5bo6bobo$11bo14bo$11bo14bo!
+510 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5b2o5b3o$10b3o7bo4b3o$10b3o4bo7b3o$10bobo5b2o5bobo$10b3o12b3o!
+511 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo5bo4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4bo5bo3bo$10bobo12bobo$11bo14bo!
+512 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o5bo2b3ob3o$8b3ob3o2bo5b3ob3o$9b2ob2o4b2o4b2ob2o$10b3o12b3o$11bo14bo!
+513 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo3bo2bo7bo$7bo7bo2b2o2bo7bo$18b2o$8bo5bo3bo4bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+514 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$18b2o$20bo$17bo$18b2o$9b5o10b5o$10b3o12b3o$11bo14bo!
+515 42
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$19bo$18b2o$18b2o$10b3o5bo6b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+516 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18b2o$20bo$11bo5bo8bo$10b3o5b2o5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+517 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$19bo$18b2o$10b3o5b2o5b3o$18bo$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+518 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6b2o6bo$11bo8bo5bo$11bo5bo8bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+519 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o6bo5b3o$10b3o5b2o5b3o$18b2o$10b3o5bo6b3o$11bo14bo$11bo14bo$10b3o12b3o!
+520 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5b2o5bobo$10bobo7bo4bobo$17bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo!
+521 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$19bo$18b2o$10bobo5b2o5bobo$11bo6bo7bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+522 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18b2o$20bo$11bo5bo8bo$10b3o5b2o5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+523 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$19bo$18b2o$10b3o5b2o5b3o$18bo$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+524 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6b2o6bo$11bo8bo5bo$11bo5bo8bo$10bobo5b2o5bobo$11bo14bo$11bo14bo!
+525 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o6bo5b3o$10b3o5b2o5b3o$10b3o5b2o5b3o$10bobo5bo6bobo$10b3o12b3o!
+526 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4b2o4bo3bo$9bo3bo6bo3bo3bo$9bo3bo3bo6bo3bo$9bo3bo4b2o4bo3bo$10bobo12bobo$11bo14bo!
+527 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o4bo3b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o3b2o3b3ob3o$9b2ob2o4bo5b2ob2o$10b3o12b3o$11bo14bo!
+528 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2b2o2bo7bo$7bo7bo4bobo7bo$17bo$8bo5bo3b2o3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+529 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$19bobo$16bob2obo$18b2o$18bo$9b5o10b5o$10b3o12b3o$11bo14bo!
+530 45
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18b2o$17bo$20bo$10b3o5b2o5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+531 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18bo$18b2o$11bo6b2o6bo$10b3o6bo5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+532 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18b2o$17bo$10b3o7bo4b3o$18b2o$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+533 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6bo7bo$11bo6b2o6bo$11bo6b2o6bo$10b3o6bo5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+534 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5b2o5b3o$10b3o4bo7b3o$20bo$10b3o5b2o5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+535 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5bo6bobo$10bobo5b2o5bobo$18b2o$10b3o6bo5b3o3$10b3o12b3o$11bo14bo!
+536 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18b2o$17bo$10bobo7bo4bobo$11bo6b2o6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+537 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18bo$18b2o$11bo6b2o6bo$10b3o6bo5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+538 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18b2o$17bo$10b3o7bo4b3o$18b2o$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+539 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6bo7bo$11bo6b2o6bo$11bo6b2o6bo$10bobo6bo5bobo$11bo14bo$11bo14bo!
+540 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5b2o5b3o$10b3o4bo7b3o$10b3o7bo4b3o$10bobo5b2o5bobo$10b3o12b3o!
+541 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4bo5bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo5bo4bo3bo$10bobo12bobo$11bo14bo!
+542 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o2bo5b3ob3o$8b3ob3o5bo2b3ob3o$9b2ob2o4b2o4b2ob2o$10b3o12b3o$11bo14bo!
+543 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2bo3bo7bo$7bo7bo2b2o2bo7bo$18b2o$8bo5bo4bo3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+544 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$18b2o$17bo$20bo$18b2o$9b5o10b5o$10b3o12b3o$11bo14bo!
+545 42
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18bo$18b2o$18b2o$10b3o6bo5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+546 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18b2o$17bo$11bo8bo5bo$10b3o5b2o5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+547 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18bo$18b2o$10b3o5b2o5b3o$19bo$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+548 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6b2o6bo$11bo5bo8bo$11bo8bo5bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+549 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5bo6b3o$10b3o5b2o5b3o$18b2o$10b3o6bo5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+550 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5b2o5bobo$10bobo4bo7bobo$20bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo!
+551 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18bo$18b2o$10bobo5b2o5bobo$11bo7bo6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+552 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18b2o$17bo$11bo8bo5bo$10b3o5b2o5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+553 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18bo$18b2o$10b3o5b2o5b3o$19bo$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+554 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6b2o6bo$11bo5bo8bo$11bo8bo5bo$10bobo5b2o5bobo$11bo14bo$11bo14bo!
+555 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5bo6b3o$10b3o5b2o5b3o$10b3o5b2o5b3o$10bobo6bo5bobo$10b3o12b3o!
+556 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4b2o4bo3bo$9bo3bo3bo6bo3bo$9bo3bo6bo3bo3bo$9bo3bo4b2o4bo3bo$10bobo12bobo$11bo14bo!
+557 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3bo4b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o3b2o3b3ob3o$9b2ob2o5bo4b2ob2o$10b3o12b3o$11bo14bo!
+558 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2b2o2bo7bo$7bo7bobo4bo7bo$20bo$8bo5bo3b2o3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+559 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$16bobo$16bob2obo$18b2o$19bo$9b5o10b5o$10b3o12b3o$11bo14bo!
+560 45
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18b2o$20bo$17bo$10b3o5b2o5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+561 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$19bo$18b2o$11bo6b2o6bo$10b3o5bo6b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+562 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18b2o$20bo$10b3o4bo7b3o$18b2o$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+563 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo7bo6bo$11bo6b2o6bo$11bo6b2o6bo$10b3o5bo6b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+564 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5b2o5b3o$10b3o7bo4b3o$17bo$10b3o5b2o5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+565 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo6bo5bobo$10bobo5b2o5bobo$18b2o$10b3o5bo6b3o3$10b3o12b3o$11bo14bo!
+566 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18b2o$20bo$10bobo4bo7bobo$11bo6b2o6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+567 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$19bo$18b2o$11bo6b2o6bo$10b3o5bo6b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+568 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18b2o$20bo$10b3o4bo7b3o$18b2o$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+569 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo7bo6bo$11bo6b2o6bo$11bo6b2o6bo$10bobo5bo6bobo$11bo14bo$11bo14bo!
+570 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5b2o5b3o$10b3o7bo4b3o$10b3o4bo7b3o$10bobo5b2o5bobo$10b3o12b3o!
+571 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo5bo4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4bo5bo3bo$10bobo12bobo$11bo14bo!
+572 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o5bo2b3ob3o$8b3ob3o2bo5b3ob3o$9b2ob2o4b2o4b2ob2o$10b3o12b3o$11bo14bo!
+573 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo3bo2bo7bo$7bo7bo2b2o2bo7bo$18b2o$8bo5bo3bo4bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+574 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$18b2o$20bo$17bo$18b2o$9b5o10b5o$10b3o12b3o$11bo14bo!
+575 42
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$19bo$18b2o$18b2o$10b3o5bo6b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+576 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18b2o$20bo$11bo5bo8bo$10b3o5b2o5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+577 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$19bo$18b2o$10b3o5b2o5b3o$18bo$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+578 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6b2o6bo$11bo8bo5bo$11bo5bo8bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+579 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o6bo5b3o$10b3o5b2o5b3o$18b2o$10b3o5bo6b3o$11bo14bo$11bo14bo$10b3o12b3o!
+580 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5b2o5bobo$10bobo7bo4bobo$17bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo!
+581 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$19bo$18b2o$10bobo5b2o5bobo$11bo6bo7bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+582 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18b2o$20bo$11bo5bo8bo$10b3o5b2o5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+583 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$19bo$18b2o$10b3o5b2o5b3o$18bo$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+584 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6b2o6bo$11bo8bo5bo$11bo5bo8bo$10bobo5b2o5bobo$11bo14bo$11bo14bo!
+585 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o6bo5b3o$10b3o5b2o5b3o$10b3o5b2o5b3o$10bobo5bo6bobo$10b3o12b3o!
+586 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4b2o4bo3bo$9bo3bo6bo3bo3bo$9bo3bo3bo6bo3bo$9bo3bo4b2o4bo3bo$10bobo12bobo$11bo14bo!
+587 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o4bo3b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o3b2o3b3ob3o$9b2ob2o4bo5b2ob2o$10b3o12b3o$11bo14bo!
+588 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2b2o2bo7bo$7bo7bo4bobo7bo$17bo$8bo5bo3b2o3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+589 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$19bobo$16bob2obo$18b2o$18bo$9b5o10b5o$10b3o12b3o$11bo14bo!
+590 45
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18b2o$17bo$20bo$10b3o5b2o5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+591 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18bo$18b2o$11bo6b2o6bo$10b3o6bo5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+592 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18b2o$17bo$10b3o7bo4b3o$18b2o$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+593 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6bo7bo$11bo6b2o6bo$11bo6b2o6bo$10b3o6bo5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+594 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5b2o5b3o$10b3o4bo7b3o$20bo$10b3o5b2o5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+595 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5bo6bobo$10bobo5b2o5bobo$18b2o$10b3o6bo5b3o3$10b3o12b3o$11bo14bo!
+596 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18b2o$17bo$10bobo7bo4bobo$11bo6b2o6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+597 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18bo$18b2o$11bo6b2o6bo$10b3o6bo5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+598 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18b2o$17bo$10b3o7bo4b3o$18b2o$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+599 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6bo7bo$11bo6b2o6bo$11bo6b2o6bo$10bobo6bo5bobo$11bo14bo$11bo14bo!
+600 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5b2o5b3o$10b3o4bo7b3o$10b3o7bo4b3o$10bobo5b2o5bobo$10b3o12b3o!
+601 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4bo5bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo5bo4bo3bo$10bobo12bobo$11bo14bo!
+602 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o2bo5b3ob3o$8b3ob3o5bo2b3ob3o$9b2ob2o4b2o4b2ob2o$10b3o12b3o$11bo14bo!
+603 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2bo3bo7bo$7bo7bo2b2o2bo7bo$18b2o$8bo5bo4bo3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+604 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$18b2o$17bo$20bo$18b2o$9b5o10b5o$10b3o12b3o$11bo14bo!
+605 42
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18bo$18b2o$18b2o$10b3o6bo5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+606 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18b2o$17bo$11bo8bo5bo$10b3o5b2o5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+607 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18bo$18b2o$10b3o5b2o5b3o$19bo$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+608 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6b2o6bo$11bo5bo8bo$11bo8bo5bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+609 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5bo6b3o$10b3o5b2o5b3o$18b2o$10b3o6bo5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+610 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5b2o5bobo$10bobo4bo7bobo$20bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo!
+611 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18bo$18b2o$10bobo5b2o5bobo$11bo7bo6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+612 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18b2o$17bo$11bo8bo5bo$10b3o5b2o5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+613 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18bo$18b2o$10b3o5b2o5b3o$19bo$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+614 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6b2o6bo$11bo5bo8bo$11bo8bo5bo$10bobo5b2o5bobo$11bo14bo$11bo14bo!
+615 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5bo6b3o$10b3o5b2o5b3o$10b3o5b2o5b3o$10bobo6bo5bobo$10b3o12b3o!
+616 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4b2o4bo3bo$9bo3bo3bo6bo3bo$9bo3bo6bo3bo3bo$9bo3bo4b2o4bo3bo$10bobo12bobo$11bo14bo!
+617 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3bo4b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o3b2o3b3ob3o$9b2ob2o5bo4b2ob2o$10b3o12b3o$11bo14bo!
+618 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2b2o2bo7bo$7bo7bobo4bo7bo$20bo$8bo5bo3b2o3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+619 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$16bobo$16bob2obo$18b2o$19bo$9b5o10b5o$10b3o12b3o$11bo14bo!
+620 45
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18b2o$20bo$17bo$10b3o5b2o5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+621 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$19bo$18b2o$11bo6b2o6bo$10b3o5bo6b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+622 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18b2o$20bo$10b3o4bo7b3o$18b2o$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+623 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo7bo6bo$11bo6b2o6bo$11bo6b2o6bo$10b3o5bo6b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+624 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5b2o5b3o$10b3o7bo4b3o$17bo$10b3o5b2o5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+625 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo6bo5bobo$10bobo5b2o5bobo$18b2o$10b3o5bo6b3o3$10b3o12b3o$11bo14bo!
+626 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18b2o$20bo$10bobo4bo7bobo$11bo6b2o6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+627 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$19bo$18b2o$11bo6b2o6bo$10b3o5bo6b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+628 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18b2o$20bo$10b3o4bo7b3o$18b2o$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+629 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo7bo6bo$11bo6b2o6bo$11bo6b2o6bo$10bobo5bo6bobo$11bo14bo$11bo14bo!
+630 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5b2o5b3o$10b3o7bo4b3o$10b3o4bo7b3o$10bobo5b2o5bobo$10b3o12b3o!
+631 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo5bo4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4bo5bo3bo$10bobo12bobo$11bo14bo!
+632 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o5bo2b3ob3o$8b3ob3o2bo5b3ob3o$9b2ob2o4b2o4b2ob2o$10b3o12b3o$11bo14bo!
+633 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo3bo2bo7bo$7bo7bo2b2o2bo7bo$18b2o$8bo5bo3bo4bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+634 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$18b2o$20bo$17bo$18b2o$9b5o10b5o$10b3o12b3o$11bo14bo!
+635 42
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$19bo$18b2o$18b2o$10b3o5bo6b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+636 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18b2o$20bo$11bo5bo8bo$10b3o5b2o5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+637 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$19bo$18b2o$10b3o5b2o5b3o$18bo$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+638 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6b2o6bo$11bo8bo5bo$11bo5bo8bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+639 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o6bo5b3o$10b3o5b2o5b3o$18b2o$10b3o5bo6b3o$11bo14bo$11bo14bo$10b3o12b3o!
+640 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5b2o5bobo$10bobo7bo4bobo$17bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo!
+641 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$19bo$18b2o$10bobo5b2o5bobo$11bo6bo7bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+642 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18b2o$20bo$11bo5bo8bo$10b3o5b2o5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+643 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$19bo$18b2o$10b3o5b2o5b3o$18bo$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+644 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6b2o6bo$11bo8bo5bo$11bo5bo8bo$10bobo5b2o5bobo$11bo14bo$11bo14bo!
+645 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o6bo5b3o$10b3o5b2o5b3o$10b3o5b2o5b3o$10bobo5bo6bobo$10b3o12b3o!
+646 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4b2o4bo3bo$9bo3bo6bo3bo3bo$9bo3bo3bo6bo3bo$9bo3bo4b2o4bo3bo$10bobo12bobo$11bo14bo!
+647 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o4bo3b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o3b2o3b3ob3o$9b2ob2o4bo5b2ob2o$10b3o12b3o$11bo14bo!
+648 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2b2o2bo7bo$7bo7bo4bobo7bo$17bo$8bo5bo3b2o3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+649 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$19bobo$16bob2obo$18b2o$18bo$9b5o10b5o$10b3o12b3o$11bo14bo!
+650 45
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18b2o$17bo$20bo$10b3o5b2o5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+651 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18bo$18b2o$11bo6b2o6bo$10b3o6bo5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+652 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18b2o$17bo$10b3o7bo4b3o$18b2o$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+653 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6bo7bo$11bo6b2o6bo$11bo6b2o6bo$10b3o6bo5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+654 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5b2o5b3o$10b3o4bo7b3o$20bo$10b3o5b2o5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+655 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5bo6bobo$10bobo5b2o5bobo$18b2o$10b3o6bo5b3o3$10b3o12b3o$11bo14bo!
+656 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18b2o$17bo$10bobo7bo4bobo$11bo6b2o6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+657 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18bo$18b2o$11bo6b2o6bo$10b3o6bo5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+658 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18b2o$17bo$10b3o7bo4b3o$18b2o$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+659 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6bo7bo$11bo6b2o6bo$11bo6b2o6bo$10bobo6bo5bobo$11bo14bo$11bo14bo!
+660 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5b2o5b3o$10b3o4bo7b3o$10b3o7bo4b3o$10bobo5b2o5bobo$10b3o12b3o!
+661 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4bo5bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo5bo4bo3bo$10bobo12bobo$11bo14bo!
+662 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o2bo5b3ob3o$8b3ob3o5bo2b3ob3o$9b2ob2o4b2o4b2ob2o$10b3o12b3o$11bo14bo!
+663 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2bo3bo7bo$7bo7bo2b2o2bo7bo$18b2o$8bo5bo4bo3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+664 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$18b2o$17bo$20bo$18b2o$9b5o10b5o$10b3o12b3o$11bo14bo!
+665 42
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18bo$18b2o$18b2o$10b3o6bo5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+666 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18b2o$17bo$11bo8bo5bo$10b3o5b2o5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+667 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18bo$18b2o$10b3o5b2o5b3o$19bo$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+668 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6b2o6bo$11bo5bo8bo$11bo8bo5bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+669 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5bo6b3o$10b3o5b2o5b3o$18b2o$10b3o6bo5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+670 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5b2o5bobo$10bobo4bo7bobo$20bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo!
+671 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18bo$18b2o$10bobo5b2o5bobo$11bo7bo6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+672 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18b2o$17bo$11bo8bo5bo$10b3o5b2o5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+673 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18bo$18b2o$10b3o5b2o5b3o$19bo$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+674 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6b2o6bo$11bo5bo8bo$11bo8bo5bo$10bobo5b2o5bobo$11bo14bo$11bo14bo!
+675 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5bo6b3o$10b3o5b2o5b3o$10b3o5b2o5b3o$10bobo6bo5bobo$10b3o12b3o!
+676 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4b2o4bo3bo$9bo3bo3bo6bo3bo$9bo3bo6bo3bo3bo$9bo3bo4b2o4bo3bo$10bobo12bobo$11bo14bo!
+677 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3bo4b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o3b2o3b3ob3o$9b2ob2o5bo4b2ob2o$10b3o12b3o$11bo14bo!
+678 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2b2o2bo7bo$7bo7bobo4bo7bo$20bo$8bo5bo3b2o3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+679 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$16bobo$16bob2obo$18b2o$19bo$9b5o10b5o$10b3o12b3o$11bo14bo!
+680 45
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18b2o$20bo$17bo$10b3o5b2o5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+681 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$19bo$18b2o$11bo6b2o6bo$10b3o5bo6b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+682 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18b2o$20bo$10b3o4bo7b3o$18b2o$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+683 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo7bo6bo$11bo6b2o6bo$11bo6b2o6bo$10b3o5bo6b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+684 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5b2o5b3o$10b3o7bo4b3o$17bo$10b3o5b2o5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+685 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo6bo5bobo$10bobo5b2o5bobo$18b2o$10b3o5bo6b3o3$10b3o12b3o$11bo14bo!
+686 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18b2o$20bo$10bobo4bo7bobo$11bo6b2o6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+687 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$19bo$18b2o$11bo6b2o6bo$10b3o5bo6b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+688 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18b2o$20bo$10b3o4bo7b3o$18b2o$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+689 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo7bo6bo$11bo6b2o6bo$11bo6b2o6bo$10bobo5bo6bobo$11bo14bo$11bo14bo!
+690 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5b2o5b3o$10b3o7bo4b3o$10b3o4bo7b3o$10bobo5b2o5bobo$10b3o12b3o!
+691 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo5bo4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4bo5bo3bo$10bobo12bobo$11bo14bo!
+692 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o5bo2b3ob3o$8b3ob3o2bo5b3ob3o$9b2ob2o4b2o4b2ob2o$10b3o12b3o$11bo14bo!
+693 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo3bo2bo7bo$7bo7bo2b2o2bo7bo$18b2o$8bo5bo3bo4bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+694 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$18b2o$20bo$17bo$18b2o$9b5o10b5o$10b3o12b3o$11bo14bo!
+695 42
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$19bo$18b2o$18b2o$10b3o5bo6b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+696 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18b2o$20bo$11bo5bo8bo$10b3o5b2o5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+697 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$19bo$18b2o$10b3o5b2o5b3o$18bo$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+698 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6b2o6bo$11bo8bo5bo$11bo5bo8bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+699 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o6bo5b3o$10b3o5b2o5b3o$18b2o$10b3o5bo6b3o$11bo14bo$11bo14bo$10b3o12b3o!
+700 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5b2o5bobo$10bobo7bo4bobo$17bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo!
+701 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$19bo$18b2o$10bobo5b2o5bobo$11bo6bo7bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+702 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18b2o$20bo$11bo5bo8bo$10b3o5b2o5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+703 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$19bo$18b2o$10b3o5b2o5b3o$18bo$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+704 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6b2o6bo$11bo8bo5bo$11bo5bo8bo$10bobo5b2o5bobo$11bo14bo$11bo14bo!
+705 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o6bo5b3o$10b3o5b2o5b3o$10b3o5b2o5b3o$10bobo5bo6bobo$10b3o12b3o!
+706 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4b2o4bo3bo$9bo3bo6bo3bo3bo$9bo3bo3bo6bo3bo$9bo3bo4b2o4bo3bo$10bobo12bobo$11bo14bo!
+707 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o4bo3b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o3b2o3b3ob3o$9b2ob2o4bo5b2ob2o$10b3o12b3o$11bo14bo!
+708 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2b2o2bo7bo$7bo7bo4bobo7bo$17bo$8bo5bo3b2o3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+709 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$19bobo$16bob2obo$18b2o$18bo$9b5o10b5o$10b3o12b3o$11bo14bo!
+710 45
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18b2o$17bo$20bo$10b3o5b2o5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+711 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18bo$18b2o$11bo6b2o6bo$10b3o6bo5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+712 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18b2o$17bo$10b3o7bo4b3o$18b2o$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+713 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6bo7bo$11bo6b2o6bo$11bo6b2o6bo$10b3o6bo5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+714 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5b2o5b3o$10b3o4bo7b3o$20bo$10b3o5b2o5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+715 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5bo6bobo$10bobo5b2o5bobo$18b2o$10b3o6bo5b3o3$10b3o12b3o$11bo14bo!
+716 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18b2o$17bo$10bobo7bo4bobo$11bo6b2o6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+717 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18bo$18b2o$11bo6b2o6bo$10b3o6bo5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+718 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18b2o$17bo$10b3o7bo4b3o$18b2o$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+719 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6bo7bo$11bo6b2o6bo$11bo6b2o6bo$10bobo6bo5bobo$11bo14bo$11bo14bo!
+720 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5b2o5b3o$10b3o4bo7b3o$10b3o7bo4b3o$10bobo5b2o5bobo$10b3o12b3o!
+721 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4bo5bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo5bo4bo3bo$10bobo12bobo$11bo14bo!
+722 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o2bo5b3ob3o$8b3ob3o5bo2b3ob3o$9b2ob2o4b2o4b2ob2o$10b3o12b3o$11bo14bo!
+723 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2bo3bo7bo$7bo7bo2b2o2bo7bo$18b2o$8bo5bo4bo3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+724 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$18b2o$17bo$20bo$18b2o$9b5o10b5o$10b3o12b3o$11bo14bo!
+725 42
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18bo$18b2o$18b2o$10b3o6bo5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+726 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18b2o$17bo$11bo8bo5bo$10b3o5b2o5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+727 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18bo$18b2o$10b3o5b2o5b3o$19bo$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+728 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6b2o6bo$11bo5bo8bo$11bo8bo5bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+729 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5bo6b3o$10b3o5b2o5b3o$18b2o$10b3o6bo5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+730 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5b2o5bobo$10bobo4bo7bobo$20bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo!
+731 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18bo$18b2o$10bobo5b2o5bobo$11bo7bo6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+732 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18b2o$17bo$11bo8bo5bo$10b3o5b2o5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+733 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18bo$18b2o$10b3o5b2o5b3o$19bo$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+734 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6b2o6bo$11bo5bo8bo$11bo8bo5bo$10bobo5b2o5bobo$11bo14bo$11bo14bo!
+735 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5bo6b3o$10b3o5b2o5b3o$10b3o5b2o5b3o$10bobo6bo5bobo$10b3o12b3o!
+736 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4b2o4bo3bo$9bo3bo3bo6bo3bo$9bo3bo6bo3bo3bo$9bo3bo4b2o4bo3bo$10bobo12bobo$11bo14bo!
+737 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3bo4b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o3b2o3b3ob3o$9b2ob2o5bo4b2ob2o$10b3o12b3o$11bo14bo!
+738 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2b2o2bo7bo$7bo7bobo4bo7bo$20bo$8bo5bo3b2o3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+739 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$16bobo$16bob2obo$18b2o$19bo$9b5o10b5o$10b3o12b3o$11bo14bo!
+740 45
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18b2o$20bo$17bo$10b3o5b2o5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+741 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$19bo$18b2o$11bo6b2o6bo$10b3o5bo6b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+742 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18b2o$20bo$10b3o4bo7b3o$18b2o$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+743 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo7bo6bo$11bo6b2o6bo$11bo6b2o6bo$10b3o5bo6b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+744 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5b2o5b3o$10b3o7bo4b3o$17bo$10b3o5b2o5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+745 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo6bo5bobo$10bobo5b2o5bobo$18b2o$10b3o5bo6b3o3$10b3o12b3o$11bo14bo!
+746 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18b2o$20bo$10bobo4bo7bobo$11bo6b2o6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+747 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$19bo$18b2o$11bo6b2o6bo$10b3o5bo6b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+748 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18b2o$20bo$10b3o4bo7b3o$18b2o$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+749 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo7bo6bo$11bo6b2o6bo$11bo6b2o6bo$10bobo5bo6bobo$11bo14bo$11bo14bo!
+750 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5b2o5b3o$10b3o7bo4b3o$10b3o4bo7b3o$10bobo5b2o5bobo$10b3o12b3o!
+751 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo5bo4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4bo5bo3bo$10bobo12bobo$11bo14bo!
+752 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o5bo2b3ob3o$8b3ob3o2bo5b3ob3o$9b2ob2o4b2o4b2ob2o$10b3o12b3o$11bo14bo!
+753 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo3bo2bo7bo$7bo7bo2b2o2bo7bo$18b2o$8bo5bo3bo4bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+754 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$18b2o$20bo$17bo$18b2o$9b5o10b5o$10b3o12b3o$11bo14bo!
+755 42
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$19bo$18b2o$18b2o$10b3o5bo6b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+756 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18b2o$20bo$11bo5bo8bo$10b3o5b2o5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+757 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$19bo$18b2o$10b3o5b2o5b3o$18bo$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+758 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6b2o6bo$11bo8bo5bo$11bo5bo8bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+759 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o6bo5b3o$10b3o5b2o5b3o$18b2o$10b3o5bo6b3o$11bo14bo$11bo14bo$10b3o12b3o!
+760 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5b2o5bobo$10bobo7bo4bobo$17bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo!
+761 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$19bo$18b2o$10bobo5b2o5bobo$11bo6bo7bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+762 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18b2o$20bo$11bo5bo8bo$10b3o5b2o5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+763 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$19bo$18b2o$10b3o5b2o5b3o$18bo$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+764 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6b2o6bo$11bo8bo5bo$11bo5bo8bo$10bobo5b2o5bobo$11bo14bo$11bo14bo!
+765 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o6bo5b3o$10b3o5b2o5b3o$10b3o5b2o5b3o$10bobo5bo6bobo$10b3o12b3o!
+766 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4b2o4bo3bo$9bo3bo6bo3bo3bo$9bo3bo3bo6bo3bo$9bo3bo4b2o4bo3bo$10bobo12bobo$11bo14bo!
+767 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o4bo3b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o3b2o3b3ob3o$9b2ob2o4bo5b2ob2o$10b3o12b3o$11bo14bo!
+768 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2b2o2bo7bo$7bo7bo4bobo7bo$17bo$8bo5bo3b2o3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+769 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$19bobo$16bob2obo$18b2o$18bo$9b5o10b5o$10b3o12b3o$11bo14bo!
+770 45
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18b2o$17bo$20bo$10b3o5b2o5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+771 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18bo$18b2o$11bo6b2o6bo$10b3o6bo5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+772 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18b2o$17bo$10b3o7bo4b3o$18b2o$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+773 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6bo7bo$11bo6b2o6bo$11bo6b2o6bo$10b3o6bo5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+774 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5b2o5b3o$10b3o4bo7b3o$20bo$10b3o5b2o5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+775 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5bo6bobo$10bobo5b2o5bobo$18b2o$10b3o6bo5b3o3$10b3o12b3o$11bo14bo!
+776 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18b2o$17bo$10bobo7bo4bobo$11bo6b2o6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+777 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18bo$18b2o$11bo6b2o6bo$10b3o6bo5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+778 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18b2o$17bo$10b3o7bo4b3o$18b2o$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+779 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6bo7bo$11bo6b2o6bo$11bo6b2o6bo$10bobo6bo5bobo$11bo14bo$11bo14bo!
+780 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5b2o5b3o$10b3o4bo7b3o$10b3o7bo4b3o$10bobo5b2o5bobo$10b3o12b3o!
+781 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4bo5bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo5bo4bo3bo$10bobo12bobo$11bo14bo!
+782 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o2bo5b3ob3o$8b3ob3o5bo2b3ob3o$9b2ob2o4b2o4b2ob2o$10b3o12b3o$11bo14bo!
+783 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2bo3bo7bo$7bo7bo2b2o2bo7bo$18b2o$8bo5bo4bo3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+784 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$18b2o$17bo$20bo$18b2o$9b5o10b5o$10b3o12b3o$11bo14bo!
+785 42
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18bo$18b2o$18b2o$10b3o6bo5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+786 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18b2o$17bo$11bo8bo5bo$10b3o5b2o5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+787 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18bo$18b2o$10b3o5b2o5b3o$19bo$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+788 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6b2o6bo$11bo5bo8bo$11bo8bo5bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+789 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5bo6b3o$10b3o5b2o5b3o$18b2o$10b3o6bo5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+790 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5b2o5bobo$10bobo4bo7bobo$20bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo!
+791 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18bo$18b2o$10bobo5b2o5bobo$11bo7bo6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+792 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18b2o$17bo$11bo8bo5bo$10b3o5b2o5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+793 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18bo$18b2o$10b3o5b2o5b3o$19bo$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+794 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6b2o6bo$11bo5bo8bo$11bo8bo5bo$10bobo5b2o5bobo$11bo14bo$11bo14bo!
+795 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5bo6b3o$10b3o5b2o5b3o$10b3o5b2o5b3o$10bobo6bo5bobo$10b3o12b3o!
+796 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4b2o4bo3bo$9bo3bo3bo6bo3bo$9bo3bo6bo3bo3bo$9bo3bo4b2o4bo3bo$10bobo12bobo$11bo14bo!
+797 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3bo4b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o3b2o3b3ob3o$9b2ob2o5bo4b2ob2o$10b3o12b3o$11bo14bo!
+798 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2b2o2bo7bo$7bo7bobo4bo7bo$20bo$8bo5bo3b2o3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+799 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$16bobo$16bob2obo$18b2o$19bo$9b5o10b5o$10b3o12b3o$11bo14bo!
+800 45
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18b2o$20bo$17bo$10b3o5b2o5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+801 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$19bo$18b2o$11bo6b2o6bo$10b3o5bo6b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+802 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18b2o$20bo$10b3o4bo7b3o$18b2o$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+803 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo7bo6bo$11bo6b2o6bo$11bo6b2o6bo$10b3o5bo6b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+804 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5b2o5b3o$10b3o7bo4b3o$17bo$10b3o5b2o5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+805 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo6bo5bobo$10bobo5b2o5bobo$18b2o$10b3o5bo6b3o3$10b3o12b3o$11bo14bo!
+806 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18b2o$20bo$10bobo4bo7bobo$11bo6b2o6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+807 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$19bo$18b2o$11bo6b2o6bo$10b3o5bo6b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+808 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18b2o$20bo$10b3o4bo7b3o$18b2o$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+809 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo7bo6bo$11bo6b2o6bo$11bo6b2o6bo$10bobo5bo6bobo$11bo14bo$11bo14bo!
+810 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5b2o5b3o$10b3o7bo4b3o$10b3o4bo7b3o$10bobo5b2o5bobo$10b3o12b3o!
+811 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo5bo4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4bo5bo3bo$10bobo12bobo$11bo14bo!
+812 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o5bo2b3ob3o$8b3ob3o2bo5b3ob3o$9b2ob2o4b2o4b2ob2o$10b3o12b3o$11bo14bo!
+813 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo3bo2bo7bo$7bo7bo2b2o2bo7bo$18b2o$8bo5bo3bo4bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+814 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$18b2o$20bo$17bo$18b2o$9b5o10b5o$10b3o12b3o$11bo14bo!
+815 42
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$19bo$18b2o$18b2o$10b3o5bo6b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+816 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18b2o$20bo$11bo5bo8bo$10b3o5b2o5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+817 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$19bo$18b2o$10b3o5b2o5b3o$18bo$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+818 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6b2o6bo$11bo8bo5bo$11bo5bo8bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+819 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o6bo5b3o$10b3o5b2o5b3o$18b2o$10b3o5bo6b3o$11bo14bo$11bo14bo$10b3o12b3o!
+820 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5b2o5bobo$10bobo7bo4bobo$17bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo!
+821 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$19bo$18b2o$10bobo5b2o5bobo$11bo6bo7bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+822 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18b2o$20bo$11bo5bo8bo$10b3o5b2o5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+823 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$19bo$18b2o$10b3o5b2o5b3o$18bo$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+824 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6b2o6bo$11bo8bo5bo$11bo5bo8bo$10bobo5b2o5bobo$11bo14bo$11bo14bo!
+825 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o6bo5b3o$10b3o5b2o5b3o$10b3o5b2o5b3o$10bobo5bo6bobo$10b3o12b3o!
+826 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4b2o4bo3bo$9bo3bo6bo3bo3bo$9bo3bo3bo6bo3bo$9bo3bo4b2o4bo3bo$10bobo12bobo$11bo14bo!
+827 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o4bo3b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o3b2o3b3ob3o$9b2ob2o4bo5b2ob2o$10b3o12b3o$11bo14bo!
+828 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2b2o2bo7bo$7bo7bo4bobo7bo$17bo$8bo5bo3b2o3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+829 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$19bobo$16bob2obo$18b2o$18bo$9b5o10b5o$10b3o12b3o$11bo14bo!
+830 45
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18b2o$17bo$20bo$10b3o5b2o5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+831 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18bo$18b2o$11bo6b2o6bo$10b3o6bo5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+832 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18b2o$17bo$10b3o7bo4b3o$18b2o$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+833 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6bo7bo$11bo6b2o6bo$11bo6b2o6bo$10b3o6bo5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+834 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5b2o5b3o$10b3o4bo7b3o$20bo$10b3o5b2o5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+835 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5bo6bobo$10bobo5b2o5bobo$18b2o$10b3o6bo5b3o3$10b3o12b3o$11bo14bo!
+836 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18b2o$17bo$10bobo7bo4bobo$11bo6b2o6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+837 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18bo$18b2o$11bo6b2o6bo$10b3o6bo5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+838 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18b2o$17bo$10b3o7bo4b3o$18b2o$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+839 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6bo7bo$11bo6b2o6bo$11bo6b2o6bo$10bobo6bo5bobo$11bo14bo$11bo14bo!
+840 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5b2o5b3o$10b3o4bo7b3o$10b3o7bo4b3o$10bobo5b2o5bobo$10b3o12b3o!
+841 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4bo5bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo5bo4bo3bo$10bobo12bobo$11bo14bo!
+842 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o2bo5b3ob3o$8b3ob3o5bo2b3ob3o$9b2ob2o4b2o4b2ob2o$10b3o12b3o$11bo14bo!
+843 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2bo3bo7bo$7bo7bo2b2o2bo7bo$18b2o$8bo5bo4bo3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+844 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$18b2o$17bo$20bo$18b2o$9b5o10b5o$10b3o12b3o$11bo14bo!
+845 42
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18bo$18b2o$18b2o$10b3o6bo5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+846 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18b2o$17bo$11bo8bo5bo$10b3o5b2o5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+847 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18bo$18b2o$10b3o5b2o5b3o$19bo$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+848 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6b2o6bo$11bo5bo8bo$11bo8bo5bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+849 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5bo6b3o$10b3o5b2o5b3o$18b2o$10b3o6bo5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+850 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5b2o5bobo$10bobo4bo7bobo$20bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo!
+851 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18bo$18b2o$10bobo5b2o5bobo$11bo7bo6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+852 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18b2o$17bo$11bo8bo5bo$10b3o5b2o5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+853 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18bo$18b2o$10b3o5b2o5b3o$19bo$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+854 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6b2o6bo$11bo5bo8bo$11bo8bo5bo$10bobo5b2o5bobo$11bo14bo$11bo14bo!
+855 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5bo6b3o$10b3o5b2o5b3o$10b3o5b2o5b3o$10bobo6bo5bobo$10b3o12b3o!
+856 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4b2o4bo3bo$9bo3bo3bo6bo3bo$9bo3bo6bo3bo3bo$9bo3bo4b2o4bo3bo$10bobo12bobo$11bo14bo!
+857 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3bo4b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o3b2o3b3ob3o$9b2ob2o5bo4b2ob2o$10b3o12b3o$11bo14bo!
+858 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2b2o2bo7bo$7bo7bobo4bo7bo$20bo$8bo5bo3b2o3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+859 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$16bobo$16bob2obo$18b2o$19bo$9b5o10b5o$10b3o12b3o$11bo14bo!
+860 45
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18b2o$20bo$17bo$10b3o5b2o5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+861 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$19bo$18b2o$11bo6b2o6bo$10b3o5bo6b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+862 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18b2o$20bo$10b3o4bo7b3o$18b2o$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+863 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo7bo6bo$11bo6b2o6bo$11bo6b2o6bo$10b3o5bo6b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+864 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5b2o5b3o$10b3o7bo4b3o$17bo$10b3o5b2o5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+865 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo6bo5bobo$10bobo5b2o5bobo$18b2o$10b3o5bo6b3o3$10b3o12b3o$11bo14bo!
+866 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18b2o$20bo$10bobo4bo7bobo$11bo6b2o6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+867 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$19bo$18b2o$11bo6b2o6bo$10b3o5bo6b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+868 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18b2o$20bo$10b3o4bo7b3o$18b2o$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+869 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo7bo6bo$11bo6b2o6bo$11bo6b2o6bo$10bobo5bo6bobo$11bo14bo$11bo14bo!
+870 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5b2o5b3o$10b3o7bo4b3o$10b3o4bo7b3o$10bobo5b2o5bobo$10b3o12b3o!
+871 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo5bo4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4bo5bo3bo$10bobo12bobo$11bo14bo!
+872 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o5bo2b3ob3o$8b3ob3o2bo5b3ob3o$9b2ob2o4b2o4b2ob2o$10b3o12b3o$11bo14bo!
+873 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo3bo2bo7bo$7bo7bo2b2o2bo7bo$18b2o$8bo5bo3bo4bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+874 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$18b2o$20bo$17bo$18b2o$9b5o10b5o$10b3o12b3o$11bo14bo!
+875 42
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$19bo$18b2o$18b2o$10b3o5bo6b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+876 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18b2o$20bo$11bo5bo8bo$10b3o5b2o5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+877 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$19bo$18b2o$10b3o5b2o5b3o$18bo$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+878 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6b2o6bo$11bo8bo5bo$11bo5bo8bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+879 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o6bo5b3o$10b3o5b2o5b3o$18b2o$10b3o5bo6b3o$11bo14bo$11bo14bo$10b3o12b3o!
+880 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5b2o5bobo$10bobo7bo4bobo$17bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo!
+881 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$19bo$18b2o$10bobo5b2o5bobo$11bo6bo7bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+882 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18b2o$20bo$11bo5bo8bo$10b3o5b2o5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+883 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$19bo$18b2o$10b3o5b2o5b3o$18bo$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+884 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6b2o6bo$11bo8bo5bo$11bo5bo8bo$10bobo5b2o5bobo$11bo14bo$11bo14bo!
+885 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o6bo5b3o$10b3o5b2o5b3o$10b3o5b2o5b3o$10bobo5bo6bobo$10b3o12b3o!
+886 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4b2o4bo3bo$9bo3bo6bo3bo3bo$9bo3bo3bo6bo3bo$9bo3bo4b2o4bo3bo$10bobo12bobo$11bo14bo!
+887 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o4bo3b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o3b2o3b3ob3o$9b2ob2o4bo5b2ob2o$10b3o12b3o$11bo14bo!
+888 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2b2o2bo7bo$7bo7bo4bobo7bo$17bo$8bo5bo3b2o3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+889 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$19bobo$16bob2obo$18b2o$18bo$9b5o10b5o$10b3o12b3o$11bo14bo!
+890 45
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18b2o$17bo$20bo$10b3o5b2o5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+891 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18bo$18b2o$11bo6b2o6bo$10b3o6bo5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+892 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18b2o$17bo$10b3o7bo4b3o$18b2o$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+893 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6bo7bo$11bo6b2o6bo$11bo6b2o6bo$10b3o6bo5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+894 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5b2o5b3o$10b3o4bo7b3o$20bo$10b3o5b2o5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+895 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5bo6bobo$10bobo5b2o5bobo$18b2o$10b3o6bo5b3o3$10b3o12b3o$11bo14bo!
+896 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18b2o$17bo$10bobo7bo4bobo$11bo6b2o6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+897 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18bo$18b2o$11bo6b2o6bo$10b3o6bo5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+898 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18b2o$17bo$10b3o7bo4b3o$18b2o$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+899 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6bo7bo$11bo6b2o6bo$11bo6b2o6bo$10bobo6bo5bobo$11bo14bo$11bo14bo!
+900 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5b2o5b3o$10b3o4bo7b3o$10b3o7bo4b3o$10bobo5b2o5bobo$10b3o12b3o!
+901 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4bo5bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo5bo4bo3bo$10bobo12bobo$11bo14bo!
+902 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o2bo5b3ob3o$8b3ob3o5bo2b3ob3o$9b2ob2o4b2o4b2ob2o$10b3o12b3o$11bo14bo!
+903 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2bo3bo7bo$7bo7bo2b2o2bo7bo$18b2o$8bo5bo4bo3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+904 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$18b2o$17bo$20bo$18b2o$9b5o10b5o$10b3o12b3o$11bo14bo!
+905 42
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18bo$18b2o$18b2o$10b3o6bo5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+906 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18b2o$17bo$11bo8bo5bo$10b3o5b2o5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+907 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18bo$18b2o$10b3o5b2o5b3o$19bo$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+908 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6b2o6bo$11bo5bo8bo$11bo8bo5bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+909 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5bo6b3o$10b3o5b2o5b3o$18b2o$10b3o6bo5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+910 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5b2o5bobo$10bobo4bo7bobo$20bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo!
+911 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18bo$18b2o$10bobo5b2o5bobo$11bo7bo6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+912 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18b2o$17bo$11bo8bo5bo$10b3o5b2o5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+913 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18bo$18b2o$10b3o5b2o5b3o$19bo$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+914 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6b2o6bo$11bo5bo8bo$11bo8bo5bo$10bobo5b2o5bobo$11bo14bo$11bo14bo!
+915 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5bo6b3o$10b3o5b2o5b3o$10b3o5b2o5b3o$10bobo6bo5bobo$10b3o12b3o!
+916 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4b2o4bo3bo$9bo3bo3bo6bo3bo$9bo3bo6bo3bo3bo$9bo3bo4b2o4bo3bo$10bobo12bobo$11bo14bo!
+917 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3bo4b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o3b2o3b3ob3o$9b2ob2o5bo4b2ob2o$10b3o12b3o$11bo14bo!
+918 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2b2o2bo7bo$7bo7bobo4bo7bo$20bo$8bo5bo3b2o3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+919 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$16bobo$16bob2obo$18b2o$19bo$9b5o10b5o$10b3o12b3o$11bo14bo!
+920 45
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18b2o$20bo$17bo$10b3o5b2o5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+921 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$19bo$18b2o$11bo6b2o6bo$10b3o5bo6b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+922 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18b2o$20bo$10b3o4bo7b3o$18b2o$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+923 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo7bo6bo$11bo6b2o6bo$11bo6b2o6bo$10b3o5bo6b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+924 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5b2o5b3o$10b3o7bo4b3o$17bo$10b3o5b2o5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+925 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo6bo5bobo$10bobo5b2o5bobo$18b2o$10b3o5bo6b3o3$10b3o12b3o$11bo14bo!
+926 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18b2o$20bo$10bobo4bo7bobo$11bo6b2o6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+927 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$19bo$18b2o$11bo6b2o6bo$10b3o5bo6b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+928 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18b2o$20bo$10b3o4bo7b3o$18b2o$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+929 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo7bo6bo$11bo6b2o6bo$11bo6b2o6bo$10bobo5bo6bobo$11bo14bo$11bo14bo!
+930 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5b2o5b3o$10b3o7bo4b3o$10b3o4bo7b3o$10bobo5b2o5bobo$10b3o12b3o!
+931 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo5bo4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4bo5bo3bo$10bobo12bobo$11bo14bo!
+932 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o5bo2b3ob3o$8b3ob3o2bo5b3ob3o$9b2ob2o4b2o4b2ob2o$10b3o12b3o$11bo14bo!
+933 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo3bo2bo7bo$7bo7bo2b2o2bo7bo$18b2o$8bo5bo3bo4bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+934 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$18b2o$20bo$17bo$18b2o$9b5o10b5o$10b3o12b3o$11bo14bo!
+935 42
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$19bo$18b2o$18b2o$10b3o5bo6b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+936 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18b2o$20bo$11bo5bo8bo$10b3o5b2o5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+937 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$19bo$18b2o$10b3o5b2o5b3o$18bo$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+938 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6b2o6bo$11bo8bo5bo$11bo5bo8bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+939 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o6bo5b3o$10b3o5b2o5b3o$18b2o$10b3o5bo6b3o$11bo14bo$11bo14bo$10b3o12b3o!
+940 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5b2o5bobo$10bobo7bo4bobo$17bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo!
+941 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$19bo$18b2o$10bobo5b2o5bobo$11bo6bo7bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+942 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18b2o$20bo$11bo5bo8bo$10b3o5b2o5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+943 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$19bo$18b2o$10b3o5b2o5b3o$18bo$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+944 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6b2o6bo$11bo8bo5bo$11bo5bo8bo$10bobo5b2o5bobo$11bo14bo$11bo14bo!
+945 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o6bo5b3o$10b3o5b2o5b3o$10b3o5b2o5b3o$10bobo5bo6bobo$10b3o12b3o!
+946 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4b2o4bo3bo$9bo3bo6bo3bo3bo$9bo3bo3bo6bo3bo$9bo3bo4b2o4bo3bo$10bobo12bobo$11bo14bo!
+947 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o4bo3b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o3b2o3b3ob3o$9b2ob2o4bo5b2ob2o$10b3o12b3o$11bo14bo!
+948 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2b2o2bo7bo$7bo7bo4bobo7bo$17bo$8bo5bo3b2o3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+949 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$19bobo$16bob2obo$18b2o$18bo$9b5o10b5o$10b3o12b3o$11bo14bo!
+950 45
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18b2o$17bo$20bo$10b3o5b2o5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+951 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18bo$18b2o$11bo6b2o6bo$10b3o6bo5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+952 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18b2o$17bo$10b3o7bo4b3o$18b2o$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+953 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6bo7bo$11bo6b2o6bo$11bo6b2o6bo$10b3o6bo5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+954 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5b2o5b3o$10b3o4bo7b3o$20bo$10b3o5b2o5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+955 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5bo6bobo$10bobo5b2o5bobo$18b2o$10b3o6bo5b3o3$10b3o12b3o$11bo14bo!
+956 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18b2o$17bo$10bobo7bo4bobo$11bo6b2o6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+957 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18bo$18b2o$11bo6b2o6bo$10b3o6bo5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+958 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18b2o$17bo$10b3o7bo4b3o$18b2o$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+959 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6bo7bo$11bo6b2o6bo$11bo6b2o6bo$10bobo6bo5bobo$11bo14bo$11bo14bo!
+960 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5b2o5b3o$10b3o4bo7b3o$10b3o7bo4b3o$10bobo5b2o5bobo$10b3o12b3o!
+961 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4bo5bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo5bo4bo3bo$10bobo12bobo$11bo14bo!
+962 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o2bo5b3ob3o$8b3ob3o5bo2b3ob3o$9b2ob2o4b2o4b2ob2o$10b3o12b3o$11bo14bo!
+963 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2bo3bo7bo$7bo7bo2b2o2bo7bo$18b2o$8bo5bo4bo3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+964 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$18b2o$17bo$20bo$18b2o$9b5o10b5o$10b3o12b3o$11bo14bo!
+965 42
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18bo$18b2o$18b2o$10b3o6bo5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+966 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18b2o$17bo$11bo8bo5bo$10b3o5b2o5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+967 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18bo$18b2o$10b3o5b2o5b3o$19bo$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+968 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6b2o6bo$11bo5bo8bo$11bo8bo5bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+969 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5bo6b3o$10b3o5b2o5b3o$18b2o$10b3o6bo5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+970 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo5b2o5bobo$10bobo4bo7bobo$20bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo!
+971 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18bo$18b2o$10bobo5b2o5bobo$11bo7bo6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+972 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$18b2o$17bo$11bo8bo5bo$10b3o5b2o5b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+973 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18bo$18b2o$10b3o5b2o5b3o$19bo$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+974 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo6b2o6bo$11bo5bo8bo$11bo8bo5bo$10bobo5b2o5bobo$11bo14bo$11bo14bo!
+975 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5bo6b3o$10b3o5b2o5b3o$10b3o5b2o5b3o$10bobo6bo5bobo$10b3o12b3o!
+976 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo4b2o4bo3bo$9bo3bo3bo6bo3bo$9bo3bo6bo3bo3bo$9bo3bo4b2o4bo3bo$10bobo12bobo$11bo14bo!
+977 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3bo4b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o3b2o3b3ob3o$9b2ob2o5bo4b2ob2o$10b3o12b3o$11bo14bo!
+978 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo2b2o2bo7bo$7bo7bobo4bo7bo$20bo$8bo5bo3b2o3bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+979 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$16bobo$16bob2obo$18b2o$19bo$9b5o10b5o$10b3o12b3o$11bo14bo!
+980 45
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$18b2o$20bo$17bo$10b3o5b2o5b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+981 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$19bo$18b2o$11bo6b2o6bo$10b3o5bo6b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+982 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$18b2o$20bo$10b3o4bo7b3o$18b2o$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+983 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo7bo6bo$11bo6b2o6bo$11bo6b2o6bo$10b3o5bo6b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+984 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o5b2o5b3o$10b3o7bo4b3o$17bo$10b3o5b2o5b3o$11bo14bo$11bo14bo$10b3o12b3o!
+985 50
+40 40
+8$11bo14bo$10b3o12b3o3$10b3o12b3o2$10bobo6bo5bobo$10bobo5b2o5bobo$18b2o$10b3o5bo6b3o3$10b3o12b3o$11bo14bo!
+986 42
+40 40
+8$10b3o12b3o$10b3o12b3o$11bo14bo$11bo14bo$11bo14bo$10bobo12bobo$18b2o$20bo$10bobo4bo7bobo$11bo6b2o6bo$11bo14bo$11bo14bo$10b3o12b3o$10b3o12b3o!
+987 50
+40 40
+7$11bo14bo$10bobo12bobo3$10b3o12b3o$10b3o12b3o$11bo14bo$19bo$18b2o$11bo6b2o6bo$10b3o5bo6b3o$10b3o12b3o3$10bobo12bobo$11bo14bo!
+988 46
+40 40
+7$11bo14bo$11bo14bo2$11bo14bo$10bobo12bobo2$10b3o12b3o$18b2o$20bo$10b3o4bo7b3o$18b2o$10bobo12bobo$11bo14bo2$11bo14bo$11bo14bo!
+989 38
+40 40
+10$11bo14bo$11bo14bo$10bobo12bobo$11bo14bo$11bo7bo6bo$11bo6b2o6bo$11bo6b2o6bo$10bobo5bo6bobo$11bo14bo$11bo14bo!
+990 30
+40 40
+11$10b3o12b3o$10bobo12bobo$10b3o12b3o$10b3o5b2o5b3o$10b3o7bo4b3o$10b3o4bo7b3o$10bobo5b2o5bobo$10b3o12b3o!
+991 50
+40 40
+10$11bo14bo$10bobo12bobo$9bo3bo10bo3bo$9bo3bo10bo3bo$9bo3bo5bo4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4b2o4bo3bo$9bo3bo4bo5bo3bo$10bobo12bobo$11bo14bo!
+992 42
+40 40
+10$11bo14bo$10b3o12b3o$9b2ob2o10b2ob2o$8b3ob3o8b3ob3o$8b3ob3o3b2o3b3ob3o$8b3ob3o5bo2b3ob3o$8b3ob3o2bo5b3ob3o$9b2ob2o4b2o4b2ob2o$10b3o12b3o$11bo14bo!
+993 86
+40 40
+10$10b3o12b3o$9bo3bo10bo3bo$8bo5bo8bo5bo2$7bo7bo3bo2bo7bo$7bo7bo2b2o2bo7bo$18b2o$8bo5bo3bo4bo5bo$9bo3bo10bo3bo$10b3o12b3o!
+994 42
+40 40
+9$11bo14bo$10b3o12b3o$9b5o10b5o3$18b2o$20bo$17bo$18b2o$9b5o10b5o$10b3o12b3o$11bo14bo!
+995 42
+40 40
+9$10b3o12b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o2$19bo$18b2o$18b2o$10b3o5bo6b3o$9bo3bo10bo3bo$9bo3bo10bo3bo$10b3o12b3o!
+996 46
+40 40
+8$11bo14bo$10b3o12b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo$18b2o$20bo$11bo5bo8bo$10b3o5b2o5b3o$9bobobo10bobobo$9bobobo10bobobo$10b3o12b3o$11bo14bo!
+997 62
+40 40
+8$10b3o12b3o2$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o$19bo$18b2o$10b3o5b2o5b3o$18bo$9bo3bo10bo3bo$9bo3bo10bo3bo2$10b3o12b3o!
+998 46
+40 40
+7$11bo14bo$11bo14bo$10b3o12b3o3$10b3o12b3o$11bo14bo$11bo6b2o6bo$11bo8bo5bo$11bo5bo8bo$10b3o5b2o5b3o3$10b3o12b3o$11bo14bo$11bo14bo!
+999 46
+40 40
+9$10b3o12b3o$11bo14bo$11bo14bo$10b3o12b3o2$10b3o6bo5b3o$10b3o5b2o5b3o$18b2o$10b3o5bo6b3o$11bo14bo$11bo14bo$10b3o12b3o!
+1000 50
